@@ -1,0 +1,122 @@
+[
+  {
+    "question": "On Unix systems, what command is used to run a Python script named MyFile.py?",
+    "document_id": 44,
+    "chunk_index": 5,
+    "source_text": "of the file. For example, if you have a script name MyFile.py and you're working on Unix, to run the script you have to type: python MyFile.py Working with the interactive mode is better when Python programmers deal with small pieces of code as you can type and execute them immediately, but when the"
+  },
+  {
+    "question": "What are the two types of quotation marks that Python allows for defining strings?",
+    "document_id": 44,
+    "chunk_index": 6,
+    "source_text": "<class 'bool'> >>> type(False) <class 'bool'> String: 1. Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows for either pairs of single or double quotes. • 'hello' is the same as \"hello\". • Strings can be output to screen using the pri"
+  },
+  {
+    "question": "How is a tab character specified in Python using an escape sequence?",
+    "document_id": 44,
+    "chunk_index": 7,
+    "source_text": "character \\newline Terminates input line Newline is ignored \\\\ Introduces escape sequence Literal backslash (\\) character In Python (and almost all other common computer languages), a tab character can be specified by the escape sequence \\t: >>> print(\"a\\tb\") a b List:  It is a general purpose most"
+  },
+  {
+    "question": "In Python, what is the name of the variable to which a value is assigned using the = operator?",
+    "document_id": 44,
+    "chunk_index": 8,
+    "source_text": "variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. PYTHON PROGRAMMING III YEAR/II SEM MRCET 12 For example − a= 100 # An integer assignment b = 1000.0 # A floating point c = \"John\" # A s"
+  },
+  {
+    "question": "What are the three components that Python defines expressions to contain, besides identifiers and literals?",
+    "document_id": 44,
+    "chunk_index": 9,
+    "source_text": "An expression is evaluated using assignment operator. Examples: Y=x + 17 >>> x=10 >>> z=x+20 >>> z 30 PYTHON PROGRAMMING III YEAR/II SEM MRCET 14 >>> x=10 >>> y=20 >>> c=x+y >>> c 30 A value all by itself is a simple expression, and so is a variable. >>> y=20 >>> y 20 Python also defines expressions"
+  },
+  {
+    "question": "According to the passage, when can the order of arguments be changed when calling a function?",
+    "document_id": 44,
+    "chunk_index": 15,
+    "source_text": "we call a function with some values, these values get assigned to the arguments according to their position. Python allows functions to be called using keyword arguments. When we call functions in this way, the order (position) of the arguments can be changed. (Or) If you have some functions with ma"
+  },
+  {
+    "question": "What error will occur if a non-default argument follows a default argument in a function definition?",
+    "document_id": 44,
+    "chunk_index": 16,
+    "source_text": "value of 5. In the third usage func(c=50, a=100), we use keyword arguments completely to specify the values. Notice, that we are specifying value for parameter c before that for a even though a is defined before c in the function definition. For example: if you define the function like below def fun"
+  },
+  {
+    "question": "What is the purpose of placing a single asterisk (*) before a parameter in a function definition?",
+    "document_id": 44,
+    "chunk_index": 17,
+    "source_text": "in advance about the arguments needed in function, we can use variable-length arguments also called arbitrary arguments. For this an asterisk (*) is placed before a parameter in function definition which can hold non-keyworded variable-length arguments and a double asterisk (**) is placed before a p"
+  },
+  {
+    "question": "What is the expected output when the input values for 'a' and 'b' are 5 and -6 respectively in the provided program?",
+    "document_id": 44,
+    "chunk_index": 18,
+    "source_text": "C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.py Enter a value 5 Enter b value-2 big number= 5 #program to find biggest of two numbers using functions. (nested if) def biggest(a,b,c): if a>b : if a>c : return a else : return c else : if b>c : return b else : return c a=int(input("
+  },
+  {
+    "question": "What are the possible outcomes when evaluating expressions involving relational and logical operators?",
+    "document_id": 44,
+    "chunk_index": 19,
+    "source_text": "'bool'> The == operator is one of the relational operators; the others are: x != y # x is not equal to y x > y # x is greater than y x < y # x is less than y x >= y # x is greater than or equal to y x <= y # x is less than or equal to y Note: All expressions involving relational and logical operator"
+  },
+  {
+    "question": "What is the purpose of the `else` statement in an `if-else` conditional in Python?",
+    "document_id": 44,
+    "chunk_index": 20,
+    "source_text": "else stmts If - else Flowchart : PYTHON PROGRAMMING III YEAR/II SEM MRCET 38 Fig: Operation of if – else statement Example of if - else: a=int(input('enter the number')) if a>5: print(\"a is greater\") else: print(\"a is smaller than the input given\") Output: C:/Users/MRCET/AppData/Local/Programs/Pytho"
+  },
+  {
+    "question": "What is the definition of iteration in Python programming?",
+    "document_id": 44,
+    "chunk_index": 21,
+    "source_text": "a false expression value\") print(var) print(\"Good bye!\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ifelif.py 3 - Got a true expression value 100 Good bye! PYTHON PROGRAMMING III YEAR/II SEM MRCET 41 Iteration: A loop statement allows us to execute a statement or group of "
+  },
+  {
+    "question": "In a `while` loop, what happens when the `break` statement is encountered?",
+    "document_id": 44,
+    "chunk_index": 22,
+    "source_text": "while (a<10): print ('Iteration',a) a = a + 1 b = b + 1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 44 if (b == 4): break print ('While loop terminated') Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/wh5.py Iteration 1 Iteration 2 Iteration 3 While loop terminated --------------"
+  },
+  {
+    "question": "How can you iterate over the values of a Python dictionary using a `for` loop?",
+    "document_id": 44,
+    "chunk_index": 23,
+    "source_text": "college = {\"ces\":\"block1\",\"it\":\"block2\",\"ece\":\"block3\"} #Iterating over the dictionary to print keys print ('Keys are:') PYTHON PROGRAMMING III YEAR/II SEM MRCET 47 for keys in college: print (keys) #Iterating over the dictionary to print values print ('Values are:') for blocks in college.values(): "
+  },
+  {
+    "question": "What is the function of the `break` statement within a `for` loop when iterating over a string like 'MRCET COLLEGE'?",
+    "document_id": 44,
+    "chunk_index": 24,
+    "source_text": "var in sequence: # code inside for loop If condition: break (if break condition satisfies it jumps to outside loop) # code inside for loop # code outside for loop PYTHON PROGRAMMING III YEAR/II SEM MRCET 50 while test expression # code inside while loop If condition: break (if break condition satisf"
+  },
+  {
+    "question": "What is the purpose of a typecode when declaring an array in Python using the `array` module?",
+    "document_id": 44,
+    "chunk_index": 35,
+    "source_text": "array.  Traverse − print all the array elements one by one.  Insertion − Adds an element at the given index.  Deletion − Deletes an element at the given index.  Search − Searches an element using the given index or by the value.  Update − Updates an element at the given index. Array is created "
+  },
+  {
+    "question": "What is the difference in functionality between the `insert()` and `append()` methods of a Python list?",
+    "document_id": 44,
+    "chunk_index": 36,
+    "source_text": "(or any iterable), to the end of the current list index() Returns the index of the first element with the specified value insert() Adds an element at the specified position pop() Removes the element at the specified position remove() Removes the first item with the specified value reverse() Reverses"
+  },
+  {
+    "question": "What does the `*` operator achieve when applied to a list in Python, and what is the type of the result?",
+    "document_id": 44,
+    "chunk_index": 37,
+    "source_text": "+ and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string. Python Expression Results Description len([1, 2, 3]) 3 Length [1, 2, 3] + [4, 5, 6] [1, 2, 3, 4, 5, 6] Concatenation ['Hi!'] * 4 ['Hi!', 'Hi!', 'Hi!', 'Hi!'] Repe"
+  },
+  {
+    "question": "When using the `insert()` method on a list, what happens if the provided `index no` is greater than the current number of elements in the list?",
+    "document_id": 44,
+    "chunk_index": 38,
+    "source_text": "3, 4, 3, 6, 9, 1] Insert: To add an item at the specified index, use the insert () method: >>> x=[1,2,4,6,7] PYTHON PROGRAMMING III YEAR/II SEM MRCET 82 >>> x.insert(2,10) #insert(index no, item to be inserted) >>> x [1, 2, 10, 4, 6, 7] ------------------------- >>> x.insert(4,['a',11]) >>> x [1, 2,"
+  },
+  {
+    "question": "In Python 3, what is the purpose of using `range(len(list))` within a `for` loop to iterate over a list?",
+    "document_id": 44,
+    "chunk_index": 39,
+    "source_text": "is T Method #2: For loop and range() In case we want to use the traditional for loop which iterates from number x to number y. # Python3 code to iterate over a list list = [1, 3, 5, 7, 9] # getting length of list length = len(list) # Iterating the index # same as 'for i in range(len(list))' for i in"
+  }
+]

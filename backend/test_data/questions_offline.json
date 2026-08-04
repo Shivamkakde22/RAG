@@ -1,0 +1,1794 @@
+[
+  {
+    "question": "What is list iii functions in Python?",
+    "document_id": 44,
+    "chunk_index": 0,
+    "source_text": "PYTHON PROGRAMMING III YEAR/II SEM MRCET PYTHON PROGRAMMING [R17A0554] LECTURE NOTES B.TECH III YEAR – II SEM (R17) (2019-20) DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING MALLA REDDY COLLEGE OF ENGINEERING & TECHNOLOGY (Autonomous Institution – UGC, Govt. of India) Recognized under 2(f) and 12 (B)",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does programming functions iii work in Python?",
+    "document_id": 44,
+    "chunk_index": 1,
+    "source_text": "and exception: text files, reading and writing files, command line arguments, errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. PYTHON PROGRAMMING III YEAR/II SEM MRCET OUTCOMES: Upon completion of the course, students will be able to",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain list programming files as described in the document.",
+    "document_id": 44,
+    "chunk_index": 2,
+    "source_text": "operations 79 list slices 80 list methods 81 list loop 83 mutability 85 aliasing 87 cloning lists 88 list parameters 89 list comprehension 90 Tuples 91 tuple assignment 94 tuple as return value 95 tuple comprehension 96 Dictionaries 97 operations and methods 97 comprehension 102 V FILES, EXCEPTIONS,",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of interpreter which programming in Python?",
+    "document_id": 44,
+    "chunk_index": 3,
+    "source_text": "Development Environment) which is installed when you install the python software from http://python.org/downloads/ 2) Writing first program: # Script Begins Statement1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 2 Statement2 Statement3 # Script Ends Differences between scripting language and programmin",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is and remembered: Step 1: Select Version of Python to Install defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 4,
+    "source_text": "and remembered: Step 1: Select Version of Python to Install. Step 2: Download Python Executable Installer. Step 3: Run Executable Installer. Step 4: Verify Python Was Installed On Windows. PYTHON PROGRAMMING III YEAR/II SEM MRCET 4 Step 5: Verify Pip Was Installed. Step 6: Add Python Path to Environ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about of the file?",
+    "document_id": 44,
+    "chunk_index": 5,
+    "source_text": "of the file. For example, if you have a script name MyFile.py and you're working on Unix, to run the script you have to type: python MyFile.py Working with the interactive mode is better when Python programmers deal with small pieces of code as you can type and execute them immediately, but when the",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of <class 'bool'> >>> type(False) <class 'bool'> String: 1 in Python programming.",
+    "document_id": 44,
+    "chunk_index": 6,
+    "source_text": "<class 'bool'> >>> type(False) <class 'bool'> String: 1. Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows for either pairs of single or double quotes. • 'hello' is the same as \"hello\". • Strings can be output to screen using the pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is variables variable list in Python?",
+    "document_id": 44,
+    "chunk_index": 7,
+    "source_text": "character \\newline Terminates input line Newline is ignored \\\\ Introduces escape sequence Literal backslash (\\) character In Python (and almost all other common computer languages), a tab character can be specified by the escape sequence \\t: >>> print(\"a\\tb\") a b List:  It is a general purpose most",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does variables work in Python?",
+    "document_id": 44,
+    "chunk_index": 8,
+    "source_text": "variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. PYTHON PROGRAMMING III YEAR/II SEM MRCET 12 For example − a= 100 # An integer assignment b = 1000.0 # A floating point c = \"John\" # A s",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain An expression is evaluated using assignment operator as described in the document.",
+    "document_id": 44,
+    "chunk_index": 9,
+    "source_text": "An expression is evaluated using assignment operator. Examples: Y=x + 17 >>> x=10 >>> z=x+20 >>> z 30 PYTHON PROGRAMMING III YEAR/II SEM MRCET 14 >>> x=10 >>> y=20 >>> c=x+y >>> c 30 A value all by itself is a simple expression, and so is a variable. >>> y=20 >>> y 20 Python also defines expressions",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of print statements statement in Python?",
+    "document_id": 44,
+    "chunk_index": 10,
+    "source_text": "if True else \"2\" >>> x '1' Statements: A statement is an instruction that the Python interpreter can execute. We have normally two basic statements, the assignment statement and the print statement. Some other kinds of statements that are if statements, while statements, and for statements generally",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is module line print defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 11,
+    "source_text": "e) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/opprec.py Value of (a + b) * c / d is 90.0 Value of ((a + b) * c) / d is 90.0 Value of (a + b) * (c / d) is 90.0 Value of a + (b * c) / d is 50.0 Comments: Single-line comments begins with a hash(#) symbol and is useful in ment",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about functions function statements?",
+    "document_id": 44,
+    "chunk_index": 12,
+    "source_text": "False PYTHON PROGRAMMING III YEAR/II SEM MRCET 20 Functions: Functions and its use: Function is a group of related statements that perform a specific task. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and m",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of is called in Python programming.",
+    "document_id": 44,
+    "chunk_index": 13,
+    "source_text": "is called. Example: #example for flow of execution print(\"welcome\") for x in range(3): print(x) print(\"Good morning college\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/flowof.py welcome 0 1 2 Good morning college The flow/order of execution is: 2,3,4,3,4,3,4,5 -----------",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is output mrcet wish in Python?",
+    "document_id": 44,
+    "chunk_index": 14,
+    "source_text": "Output: hello world ------------------------------- PYTHON PROGRAMMING III YEAR/II SEM MRCET 24 def hf(): print(\"hw\") print(\"gh kfjg 66666\") hf() hf() hf() Output: hw gh kfjg 66666 hw gh kfjg 66666 hw gh kfjg 66666 --------------------------------- def add(x,y): c=x+y print(c) add(5,4) Output: 9 def",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does values arguments func work in Python?",
+    "document_id": 44,
+    "chunk_index": 15,
+    "source_text": "we call a function with some values, these values get assigned to the arguments according to their position. Python allows functions to be called using keyword arguments. When we call functions in this way, the order (position) of the arguments can be changed. (Or) If you have some functions with ma",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain value of 5 as described in the document.",
+    "document_id": 44,
+    "chunk_index": 16,
+    "source_text": "value of 5. In the third usage func(c=50, a=100), we use keyword arguments completely to specify the values. Notice, that we are specifying value for parameter c before that for a even though a is defined before c in the function definition. For example: if you define the function like below def fun",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of arguments function print in Python?",
+    "document_id": 44,
+    "chunk_index": 17,
+    "source_text": "in advance about the arguments needed in function, we can use variable-length arguments also called arbitrary arguments. For this an asterisk (*) is placed before a parameter in function definition which can hold non-keyworded variable-length arguments and a double asterisk (**) is placed before a p",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is mrcet cse dept defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 18,
+    "source_text": "C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.py Enter a value 5 Enter b value-2 big number= 5 #program to find biggest of two numbers using functions. (nested if) def biggest(a,b,c): if a>b : if a>c : return a else : return c else : if b>c : return b else : return c a=int(input(",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about statement else greater?",
+    "document_id": 44,
+    "chunk_index": 19,
+    "source_text": "'bool'> The == operator is one of the relational operators; the others are: x != y # x is not equal to y x > y # x is greater than y x < y # x is less than y x >= y # x is greater than or equal to y x <= y # x is less than or equal to y Note: All expressions involving relational and logical operator",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of else print elif in Python programming.",
+    "document_id": 44,
+    "chunk_index": 20,
+    "source_text": "else stmts If - else Flowchart : PYTHON PROGRAMMING III YEAR/II SEM MRCET 38 Fig: Operation of if – else statement Example of if - else: a=int(input('enter the number')) if a>5: print(\"a is greater\") else: print(\"a is smaller than the input given\") Output: C:/Users/MRCET/AppData/Local/Programs/Pytho",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is a false expression value\") print(var) print(\"Good bye in Python?",
+    "document_id": 44,
+    "chunk_index": 21,
+    "source_text": "a false expression value\") print(var) print(\"Good bye!\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ifelif.py 3 - Got a true expression value 100 Good bye! PYTHON PROGRAMMING III YEAR/II SEM MRCET 41 Iteration: A loop statement allows us to execute a statement or group of ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does count print mrcet work in Python?",
+    "document_id": 44,
+    "chunk_index": 22,
+    "source_text": "while (a<10): print ('Iteration',a) a = a + 1 b = b + 1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 44 if (b == 4): break print ('While loop terminated') Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/wh5.py Iteration 1 Iteration 2 Iteration 3 While loop terminated --------------",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain loop print mrcet as described in the document.",
+    "document_id": 44,
+    "chunk_index": 23,
+    "source_text": "college = {\"ces\":\"block1\",\"it\":\"block2\",\"ece\":\"block3\"} #Iterating over the dictionary to print keys print ('Keys are:') PYTHON PROGRAMMING III YEAR/II SEM MRCET 47 for keys in college: print (keys) #Iterating over the dictionary to print values print ('Values are:') for blocks in college.values(): ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of loop code inside in Python?",
+    "document_id": 44,
+    "chunk_index": 24,
+    "source_text": "var in sequence: # code inside for loop If condition: break (if break condition satisfies it jumps to outside loop) # code inside for loop # code outside for loop PYTHON PROGRAMMING III YEAR/II SEM MRCET 50 while test expression # code inside while loop If condition: break (if break condition satisf",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is letter pass mrcet defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 25,
+    "source_text": "in \"string\": if val == \"i\": continue print(val) print(\"The end\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/cont.py s t r n g The end # program to display only odd numbers for num in [20, 11, 9, 66, 4, 89, 44]: PYTHON PROGRAMMING III YEAR/II SEM MRCET 53 # Skipping the ite",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about that returns a value is called Fruitful function?",
+    "document_id": 44,
+    "chunk_index": 26,
+    "source_text": "that returns a value is called Fruitful function. A Function that does not return a value is called a void function Return values: The Keyword return is used to return back the value to the called function. # returns the area of a circle with the given radius: def area(radius): temp = 3.14 * radius*",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of function mrcet local in Python programming.",
+    "document_id": 44,
+    "chunk_index": 27,
+    "source_text": "print(common_data([1,2,3,4,5], [6,7,8,9,10])) Output: C:\\Users\\MRCET\\AppData\\Local\\Programs\\Python\\Python38-32\\pyyy\\fu1.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 57 True True None #----------------- def area(radius): b = 3.14159 * radius**2 return b Parameters: Parameters are passed during the def",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is local global print in Python?",
+    "document_id": 44,
+    "chunk_index": 28,
+    "source_text": "............. global x #declaring global variable inside a function .............. # create a global variable PYTHON PROGRAMMING III YEAR/II SEM MRCET 60 x = \"global\" def f(): print(\"x inside :\", x) f() print(\"x outside:\", x) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does of one function is the input for another work in Python?",
+    "document_id": 44,
+    "chunk_index": 29,
+    "source_text": "of one function is the input for another. So for example if you have two functions FunctionA and FunctionB you compose them by doing the following. FunctionB(FunctionA(x)) Here x is the input for FunctionA and the result of that is the input for FunctionB. Example 1: #create a function compose2 >>> ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain a sequence of characters as described in the document.",
+    "document_id": 44,
+    "chunk_index": 30,
+    "source_text": "a sequence of characters. Since Python has no provision for arrays, we simply use strings. This is how we declare a string. We can use a pair of single or double quotes. Every string object is of the type ‘str’. >>> type(\"name\") <class 'str'> >>> name=str() >>> name '' >>> a=str('mrcet') >>> a 'mrce",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of string returns true in Python?",
+    "document_id": 44,
+    "chunk_index": 31,
+    "source_text": "x[:5] 'compu' >>> x[-1] 'r' >>> x[-3:] 'ter' >>> x[:-2] 'comput' >>> x[::-2] 'rtpo' >>> x[::-1] 'retupmoc' Immutability: It is tempting to use the [] operator on the left side of an assignment, with the intention of changing a character in a string. For example: >>> greeting='mrcet college!' >>> gre",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is occurrences if max given defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 32,
+    "source_text": "occurrences if max given. 10. split() Splits string according to delimiter str (space if not provided) and returns list of substrings; 11. count() Occurrence of a string in another string 12. find() Finding the index of the first occurrence of a string in another string 13. swapcase() Converts lower",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about string=\"Nikhil Is Learning\" >>> string?",
+    "document_id": 44,
+    "chunk_index": 33,
+    "source_text": "string=\"Nikhil Is Learning\" >>> string.istitle() True 8. isupper() isupper() returns true if string has characters that are in uppercase and false otherwise. Syntax: String.isupper() Example: >>> string=\"HELLO\" >>> string.isupper() True 9. replace() replace() method replaces all occurrences of old i",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of string print array in Python programming.",
+    "document_id": 44,
+    "chunk_index": 34,
+    "source_text": "constants and classes Syntax: import string Note: help(string) --- gives the information about all the variables ,functions, attributes and classes to be used in string module. Example: import string print(string.ascii_letters) print(string.ascii_lowercase) print(string.ascii_uppercase) print(string",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is array element represents in Python?",
+    "document_id": 44,
+    "chunk_index": 35,
+    "source_text": "array.  Traverse − print all the array elements one by one.  Insertion − Adds an element at the given index.  Deletion − Deletes an element at the given index.  Search − Searches an element using the given index or by the value.  Update − Updates an element at the given index. Array is created ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does list college mrcet work in Python?",
+    "document_id": 44,
+    "chunk_index": 36,
+    "source_text": "(or any iterable), to the end of the current list index() Returns the index of the first element with the specified value insert() Adds an element at the specified position pop() Removes the element at the specified position remove() Removes the first item with the specified value reverse() Reverses",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain list mrcet append as described in the document.",
+    "document_id": 44,
+    "chunk_index": 37,
+    "source_text": "+ and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string. Python Expression Results Description len([1, 2, 3]) 3 Length [1, 2, 3] + [4, 5, 6] [1, 2, 3, 4, 5, 6] Concatenation ['Hi!'] * 4 ['Hi!', 'Hi!', 'Hi!', 'Hi!'] Repe",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of item list college in Python?",
+    "document_id": 44,
+    "chunk_index": 38,
+    "source_text": "3, 4, 3, 6, 9, 1] Insert: To add an item at the specified index, use the insert () method: >>> x=[1,2,4,6,7] PYTHON PROGRAMMING III YEAR/II SEM MRCET 82 >>> x.insert(2,10) #insert(index no, item to be inserted) >>> x [1, 2, 10, 4, 6, 7] ------------------------- >>> x.insert(4,['a',11]) >>> x [1, 2,",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is list item length defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 39,
+    "source_text": "is T Method #2: For loop and range() In case we want to use the traditional for loop which iterates from number x to number y. # Python3 code to iterate over a list list = [1, 3, 5, 7, 9] # getting length of list length = len(list) # Iterating the index # same as 'for i in range(len(list))' for i in",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about 2, 10, 4, 6] >>> x?",
+    "document_id": 44,
+    "chunk_index": 40,
+    "source_text": "2, 10, 4, 6] >>> x.pop(2) 10 >>> x [1, 2, 4, 6] Remove: The remove() method removes the specified item from a given list. >>> x=[1,33,2,10,4,6] >>> x.remove(33) >>> x [1, 2, 10, 4, 6] PYTHON PROGRAMMING III YEAR/II SEM MRCET 87 >>> x.remove(4) >>> x [1, 2, 10, 6] Reverse: Reverse the order of a give",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of the list itself, not just the reference in Python programming.",
+    "document_id": 44,
+    "chunk_index": 41,
+    "source_text": "the list itself, not just the reference. This process is sometimes called cloning, to avoid the ambiguity of the word copy. The easiest way to clone a list is to use the slice operator. Taking any slice of a creates a new list. In this case the slice happens to consist of the whole list. Example: a ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is tuple range print in Python?",
+    "document_id": 44,
+    "chunk_index": 42,
+    "source_text": "49, 64, 81] (or) This is also equivalent to >>> list1=list(map(lambda x:x**2, range(10))) >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] (or) Which is more concise and redable. >>> list1=[x**2 for x in range(10)] >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] PYTHON PROGRAMMING III YEAR/II SEM MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does tuple items print work in Python?",
+    "document_id": 44,
+    "chunk_index": 43,
+    "source_text": "tuple items  Change tuple items  Loop through a tuple  Count()  Index()  Length() PYTHON PROGRAMMING III YEAR/II SEM MRCET 93 Access tuple items: Access tuple items by referring to the index number, inside square brackets >>> x=('a','b','c','g') >>> print(x[2]) c Change tuple items: Once a tupl",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain tuple return mrcet as described in the document.",
+    "document_id": 44,
+    "chunk_index": 44,
+    "source_text": "of numbers in it PYTHON PROGRAMMING III YEAR/II SEM MRCET 95 We call the value for [0] in tuple and for tuple 2 we call the value between 1 and 4 Run the above code- It gives name mrcet for first tuple while for second tuple it gives number (2, 3, 4) Tuple as return values: A Tuple is a comma separa",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of a tuple: it is actually a generator in Python?",
+    "document_id": 44,
+    "chunk_index": 45,
+    "source_text": "a tuple: it is actually a generator. The only thing that you need to know now about a generator now is that you can iterate over it, but ONLY ONCE. So, given the code >>> x = (i for i in 'abc') >>> for i in x: print(i) a b c Create a list of 2-tuples like (number, square): >>> z=[(x, x**2) for x in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is year mrcet brand defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 46,
+    "source_text": "found. If d is not provided and key is not found, raises KeyError. popitem() Remove and return an arbitary item (key, value). Raises KeyError if the dictionary is empty. setdefault(key[,d]) If key is in the dictionary, return its value. If not, insert key with a value of d and return d (defaults to ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about name uid customers?",
+    "document_id": 44,
+    "chunk_index": 47,
+    "source_text": ">>> x = {1:1, 2:4, 3:9, 4:16, 5:25} >>> for key in x: print(key, x[key]) 1 1 2 4 3 9 PYTHON PROGRAMMING III YEAR/II SEM MRCET 101 4 16 5 25 >>> for k,v in x.items(): print(k,v) 1 1 2 4 3 9 4 16 5 25 List of Dictionaries: >>> customers = [{\"uid\":1,\"name\":\"John\"}, {\"uid\":2,\"name\":\"Smith\"}, {\"uid\":3,\"n",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of file files text in Python programming.",
+    "document_id": 44,
+    "chunk_index": 48,
+    "source_text": "errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. Files, Exceptions, Modules, Packages: Files and exception: A file is some information or data which stays in the computer storage devices. Python gives you easy ways to manipulate thes",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is file open mode in Python?",
+    "document_id": 44,
+    "chunk_index": 49,
+    "source_text": "append and plus sign means if it is not there then create it File Modes in Python: Mode Description 'r' This is the default mode. It Opens file for reading. 'w' This Mode Opens file for writing. If file does not exist, it creates a new file. If file exists it truncates the file. 'x' Creates a new fi",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does sys command line work in Python?",
+    "document_id": 44,
+    "chunk_index": 50,
+    "source_text": "to write the content “hi python programming” for the existing file. f=open(\"1.txt\",'w') f.write(\"hi python programming\") f.close() Output: In the above program the hello txt file consist of data like PYTHON PROGRAMMING III YEAR/II SEM MRCET 108 But when we try to write some data on to the same file ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain #print(sys as described in the document.",
+    "document_id": 44,
+    "chunk_index": 51,
+    "source_text": "#print(sys.argv[1]) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py ['C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py'] C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 110 Note: Sinc",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of in debug mode import getopt import sys argv = sys in Python?",
+    "document_id": 44,
+    "chunk_index": 52,
+    "source_text": "in debug mode import getopt import sys argv = sys.argv[0:] try: opts, args = getopt.getopt(argv, 'hm:d', ['help', 'my_file=']) #print(opts) print(args) except getopt.GetoptError: # Print a message or do something useful print('Something went wrong!') sys.exit(2) PYTHON PROGRAMMING III YEAR/II SEM MR",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is indentation, it insists on consistentindentation defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 53,
+    "source_text": "indentation, it insists on consistentindentation. You are free to choose the number of spaces of indentation to use, but you then need to stick with it. Syntax errors: These are the most basic type of error. They arise when the Python parser is unable to understand a line of code. Syntax errors are ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about Both keywords are followed by indented blocks?",
+    "document_id": 44,
+    "chunk_index": 54,
+    "source_text": "Both keywords are followed by indented blocks. Syntax: try : #statements in try block except : #executed when error in try block Typically we see, most of the times  Syntactical errors (wrong spelling, colon ( : ) missing ….), At developer level and compile level it gives errors.  Logical errors (",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of print zero resource in Python programming.",
+    "document_id": 44,
+    "chunk_index": 55,
+    "source_text": "by zero bye  The except block executes only when try block has an error, check it below a=5 b=2 try: print(a/b) except Exception: print(\"number can not be divided by zero\") print(\"bye\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex4.py 2.5  For example if you want to pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is resource print closed in Python?",
+    "document_id": 44,
+    "chunk_index": 56,
+    "source_text": "a=5 b=2 try: print(\"resource opened\") print(a/b) except Exception as e: print(\"number can not be divided by zero\",e) print(\"resource closed\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex9.py resource opened 2.5  But again the same problem file/resource is not closed  To",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does modules module programming work in Python?",
+    "document_id": 44,
+    "chunk_index": 57,
+    "source_text": "calendar, math): • Modules refer to a file containing Python statements and definitions. PYTHON PROGRAMMING III YEAR/II SEM MRCET 122 • We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code. • We can define our most us",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain import add module as described in the document.",
+    "document_id": 44,
+    "chunk_index": 58,
+    "source_text": "III YEAR/II SEM MRCET 123 Here, we have defined a function add() inside a module named example. The function takes in two numbers and returns their sum. How to import the module is: • We can import the definitions inside a module to another module or the Interactive interpreter in Python. • We use t",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of date import datetime a=datetime in Python?",
+    "document_id": 44,
+    "chunk_index": 59,
+    "source_text": "date import datetime a=datetime.date(2000,9,18) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/d1.py = 2000-09-18 # write a python program to display time import datetime a=datetime.time(5,3) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/py",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is the following cmd whether removed or not >>> os defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 60,
+    "source_text": "the following cmd whether removed or not >>> os.access(\"t3.py\",os.F_OK) False >>> os.listdir() ['add.py', 'ali.py', 'alia.py', 'arr.py', 'arr2.py', 'arr3.py', 'arr4.py', 'arr5.py', 'arr6.py', 'br.py', 'br2.py', 'bubb.py', 'bubb2.py', 'bubb3.py', 'bubb4.py', 'bubbdesc.py', 'clo.py', 'cmndlinarg.py', ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about have renamed the math module as m?",
+    "document_id": 44,
+    "chunk_index": 61,
+    "source_text": "have renamed the math module as m. This can save us typing time in some cases. • Note that the name math is not recognized in our scope. Hence, math.pi is invalid, m.pi is the correct implementation. Python from...import statement: • We can import specific names from a module without importing the m",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of named __init__ in Python programming.",
+    "document_id": 44,
+    "chunk_index": 62,
+    "source_text": "named __init__.py in order for Python to consider it as a package. This file can be left empty but we generally place the initialization code for that package in this file. • Here is an example. Suppose we are developing a game, one possible organization of packages and modules could be as shown in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is IIYEAR in Python?",
+    "document_id": 44,
+    "chunk_index": 63,
+    "source_text": "IIYEAR.CSE.student import read >>> read PYTHON PROGRAMMING III YEAR/II SEM MRCET 137 <function read at 0x03BD1070> >>> read() Department >>> from IIYEAR.CSE.student import write >>> write() Student # Write a program to create and import module? def add(a=4,b=6): c=a+b return c Output: C:\\Users\\MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does list iii functions work in Python?",
+    "document_id": 46,
+    "chunk_index": 0,
+    "source_text": "PYTHON PROGRAMMING III YEAR/II SEM MRCET PYTHON PROGRAMMING [R17A0554] LECTURE NOTES B.TECH III YEAR – II SEM (R17) (2019-20) DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING MALLA REDDY COLLEGE OF ENGINEERING & TECHNOLOGY (Autonomous Institution – UGC, Govt. of India) Recognized under 2(f) and 12 (B)",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain programming functions iii as described in the document.",
+    "document_id": 46,
+    "chunk_index": 1,
+    "source_text": "and exception: text files, reading and writing files, command line arguments, errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. PYTHON PROGRAMMING III YEAR/II SEM MRCET OUTCOMES: Upon completion of the course, students will be able to",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of list programming files in Python?",
+    "document_id": 46,
+    "chunk_index": 2,
+    "source_text": "operations 79 list slices 80 list methods 81 list loop 83 mutability 85 aliasing 87 cloning lists 88 list parameters 89 list comprehension 90 Tuples 91 tuple assignment 94 tuple as return value 95 tuple comprehension 96 Dictionaries 97 operations and methods 97 comprehension 102 V FILES, EXCEPTIONS,",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is interpreter which programming defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 3,
+    "source_text": "Development Environment) which is installed when you install the python software from http://python.org/downloads/ 2) Writing first program: # Script Begins Statement1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 2 Statement2 Statement3 # Script Ends Differences between scripting language and programmin",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about and remembered: Step 1: Select Version of Python to Install?",
+    "document_id": 46,
+    "chunk_index": 4,
+    "source_text": "and remembered: Step 1: Select Version of Python to Install. Step 2: Download Python Executable Installer. Step 3: Run Executable Installer. Step 4: Verify Python Was Installed On Windows. PYTHON PROGRAMMING III YEAR/II SEM MRCET 4 Step 5: Verify Pip Was Installed. Step 6: Add Python Path to Environ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of of the file in Python programming.",
+    "document_id": 46,
+    "chunk_index": 5,
+    "source_text": "of the file. For example, if you have a script name MyFile.py and you're working on Unix, to run the script you have to type: python MyFile.py Working with the interactive mode is better when Python programmers deal with small pieces of code as you can type and execute them immediately, but when the",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is <class 'bool'> >>> type(False) <class 'bool'> String: 1 in Python?",
+    "document_id": 46,
+    "chunk_index": 6,
+    "source_text": "<class 'bool'> >>> type(False) <class 'bool'> String: 1. Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows for either pairs of single or double quotes. • 'hello' is the same as \"hello\". • Strings can be output to screen using the pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does variables variable list work in Python?",
+    "document_id": 46,
+    "chunk_index": 7,
+    "source_text": "character \\newline Terminates input line Newline is ignored \\\\ Introduces escape sequence Literal backslash (\\) character In Python (and almost all other common computer languages), a tab character can be specified by the escape sequence \\t: >>> print(\"a\\tb\") a b List:  It is a general purpose most",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain variables as described in the document.",
+    "document_id": 46,
+    "chunk_index": 8,
+    "source_text": "variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. PYTHON PROGRAMMING III YEAR/II SEM MRCET 12 For example − a= 100 # An integer assignment b = 1000.0 # A floating point c = \"John\" # A s",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of An expression is evaluated using assignment operator in Python?",
+    "document_id": 46,
+    "chunk_index": 9,
+    "source_text": "An expression is evaluated using assignment operator. Examples: Y=x + 17 >>> x=10 >>> z=x+20 >>> z 30 PYTHON PROGRAMMING III YEAR/II SEM MRCET 14 >>> x=10 >>> y=20 >>> c=x+y >>> c 30 A value all by itself is a simple expression, and so is a variable. >>> y=20 >>> y 20 Python also defines expressions",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is print statements statement defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 10,
+    "source_text": "if True else \"2\" >>> x '1' Statements: A statement is an instruction that the Python interpreter can execute. We have normally two basic statements, the assignment statement and the print statement. Some other kinds of statements that are if statements, while statements, and for statements generally",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about module line print?",
+    "document_id": 46,
+    "chunk_index": 11,
+    "source_text": "e) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/opprec.py Value of (a + b) * c / d is 90.0 Value of ((a + b) * c) / d is 90.0 Value of (a + b) * (c / d) is 90.0 Value of a + (b * c) / d is 50.0 Comments: Single-line comments begins with a hash(#) symbol and is useful in ment",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of functions function statements in Python programming.",
+    "document_id": 46,
+    "chunk_index": 12,
+    "source_text": "False PYTHON PROGRAMMING III YEAR/II SEM MRCET 20 Functions: Functions and its use: Function is a group of related statements that perform a specific task. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and m",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is is called in Python?",
+    "document_id": 46,
+    "chunk_index": 13,
+    "source_text": "is called. Example: #example for flow of execution print(\"welcome\") for x in range(3): print(x) print(\"Good morning college\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/flowof.py welcome 0 1 2 Good morning college The flow/order of execution is: 2,3,4,3,4,3,4,5 -----------",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does output mrcet wish work in Python?",
+    "document_id": 46,
+    "chunk_index": 14,
+    "source_text": "Output: hello world ------------------------------- PYTHON PROGRAMMING III YEAR/II SEM MRCET 24 def hf(): print(\"hw\") print(\"gh kfjg 66666\") hf() hf() hf() Output: hw gh kfjg 66666 hw gh kfjg 66666 hw gh kfjg 66666 --------------------------------- def add(x,y): c=x+y print(c) add(5,4) Output: 9 def",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain values arguments func as described in the document.",
+    "document_id": 46,
+    "chunk_index": 15,
+    "source_text": "we call a function with some values, these values get assigned to the arguments according to their position. Python allows functions to be called using keyword arguments. When we call functions in this way, the order (position) of the arguments can be changed. (Or) If you have some functions with ma",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of value of 5 in Python?",
+    "document_id": 46,
+    "chunk_index": 16,
+    "source_text": "value of 5. In the third usage func(c=50, a=100), we use keyword arguments completely to specify the values. Notice, that we are specifying value for parameter c before that for a even though a is defined before c in the function definition. For example: if you define the function like below def fun",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is arguments function print defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 17,
+    "source_text": "in advance about the arguments needed in function, we can use variable-length arguments also called arbitrary arguments. For this an asterisk (*) is placed before a parameter in function definition which can hold non-keyworded variable-length arguments and a double asterisk (**) is placed before a p",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about mrcet cse dept?",
+    "document_id": 46,
+    "chunk_index": 18,
+    "source_text": "C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.py Enter a value 5 Enter b value-2 big number= 5 #program to find biggest of two numbers using functions. (nested if) def biggest(a,b,c): if a>b : if a>c : return a else : return c else : if b>c : return b else : return c a=int(input(",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of statement else greater in Python programming.",
+    "document_id": 46,
+    "chunk_index": 19,
+    "source_text": "'bool'> The == operator is one of the relational operators; the others are: x != y # x is not equal to y x > y # x is greater than y x < y # x is less than y x >= y # x is greater than or equal to y x <= y # x is less than or equal to y Note: All expressions involving relational and logical operator",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is else print elif in Python?",
+    "document_id": 46,
+    "chunk_index": 20,
+    "source_text": "else stmts If - else Flowchart : PYTHON PROGRAMMING III YEAR/II SEM MRCET 38 Fig: Operation of if – else statement Example of if - else: a=int(input('enter the number')) if a>5: print(\"a is greater\") else: print(\"a is smaller than the input given\") Output: C:/Users/MRCET/AppData/Local/Programs/Pytho",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does a false expression value\") print(var) print(\"Good bye work in Python?",
+    "document_id": 46,
+    "chunk_index": 21,
+    "source_text": "a false expression value\") print(var) print(\"Good bye!\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ifelif.py 3 - Got a true expression value 100 Good bye! PYTHON PROGRAMMING III YEAR/II SEM MRCET 41 Iteration: A loop statement allows us to execute a statement or group of ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain count print mrcet as described in the document.",
+    "document_id": 46,
+    "chunk_index": 22,
+    "source_text": "while (a<10): print ('Iteration',a) a = a + 1 b = b + 1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 44 if (b == 4): break print ('While loop terminated') Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/wh5.py Iteration 1 Iteration 2 Iteration 3 While loop terminated --------------",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of loop print mrcet in Python?",
+    "document_id": 46,
+    "chunk_index": 23,
+    "source_text": "college = {\"ces\":\"block1\",\"it\":\"block2\",\"ece\":\"block3\"} #Iterating over the dictionary to print keys print ('Keys are:') PYTHON PROGRAMMING III YEAR/II SEM MRCET 47 for keys in college: print (keys) #Iterating over the dictionary to print values print ('Values are:') for blocks in college.values(): ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is loop code inside defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 24,
+    "source_text": "var in sequence: # code inside for loop If condition: break (if break condition satisfies it jumps to outside loop) # code inside for loop # code outside for loop PYTHON PROGRAMMING III YEAR/II SEM MRCET 50 while test expression # code inside while loop If condition: break (if break condition satisf",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about letter pass mrcet?",
+    "document_id": 46,
+    "chunk_index": 25,
+    "source_text": "in \"string\": if val == \"i\": continue print(val) print(\"The end\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/cont.py s t r n g The end # program to display only odd numbers for num in [20, 11, 9, 66, 4, 89, 44]: PYTHON PROGRAMMING III YEAR/II SEM MRCET 53 # Skipping the ite",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of that returns a value is called Fruitful function in Python programming.",
+    "document_id": 46,
+    "chunk_index": 26,
+    "source_text": "that returns a value is called Fruitful function. A Function that does not return a value is called a void function Return values: The Keyword return is used to return back the value to the called function. # returns the area of a circle with the given radius: def area(radius): temp = 3.14 * radius*",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is function mrcet local in Python?",
+    "document_id": 46,
+    "chunk_index": 27,
+    "source_text": "print(common_data([1,2,3,4,5], [6,7,8,9,10])) Output: C:\\Users\\MRCET\\AppData\\Local\\Programs\\Python\\Python38-32\\pyyy\\fu1.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 57 True True None #----------------- def area(radius): b = 3.14159 * radius**2 return b Parameters: Parameters are passed during the def",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does local global print work in Python?",
+    "document_id": 46,
+    "chunk_index": 28,
+    "source_text": "............. global x #declaring global variable inside a function .............. # create a global variable PYTHON PROGRAMMING III YEAR/II SEM MRCET 60 x = \"global\" def f(): print(\"x inside :\", x) f() print(\"x outside:\", x) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain of one function is the input for another as described in the document.",
+    "document_id": 46,
+    "chunk_index": 29,
+    "source_text": "of one function is the input for another. So for example if you have two functions FunctionA and FunctionB you compose them by doing the following. FunctionB(FunctionA(x)) Here x is the input for FunctionA and the result of that is the input for FunctionB. Example 1: #create a function compose2 >>> ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of a sequence of characters in Python?",
+    "document_id": 46,
+    "chunk_index": 30,
+    "source_text": "a sequence of characters. Since Python has no provision for arrays, we simply use strings. This is how we declare a string. We can use a pair of single or double quotes. Every string object is of the type ‘str’. >>> type(\"name\") <class 'str'> >>> name=str() >>> name '' >>> a=str('mrcet') >>> a 'mrce",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is string returns true defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 31,
+    "source_text": "x[:5] 'compu' >>> x[-1] 'r' >>> x[-3:] 'ter' >>> x[:-2] 'comput' >>> x[::-2] 'rtpo' >>> x[::-1] 'retupmoc' Immutability: It is tempting to use the [] operator on the left side of an assignment, with the intention of changing a character in a string. For example: >>> greeting='mrcet college!' >>> gre",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about occurrences if max given?",
+    "document_id": 46,
+    "chunk_index": 32,
+    "source_text": "occurrences if max given. 10. split() Splits string according to delimiter str (space if not provided) and returns list of substrings; 11. count() Occurrence of a string in another string 12. find() Finding the index of the first occurrence of a string in another string 13. swapcase() Converts lower",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of string=\"Nikhil Is Learning\" >>> string in Python programming.",
+    "document_id": 46,
+    "chunk_index": 33,
+    "source_text": "string=\"Nikhil Is Learning\" >>> string.istitle() True 8. isupper() isupper() returns true if string has characters that are in uppercase and false otherwise. Syntax: String.isupper() Example: >>> string=\"HELLO\" >>> string.isupper() True 9. replace() replace() method replaces all occurrences of old i",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is string print array in Python?",
+    "document_id": 46,
+    "chunk_index": 34,
+    "source_text": "constants and classes Syntax: import string Note: help(string) --- gives the information about all the variables ,functions, attributes and classes to be used in string module. Example: import string print(string.ascii_letters) print(string.ascii_lowercase) print(string.ascii_uppercase) print(string",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does array element represents work in Python?",
+    "document_id": 46,
+    "chunk_index": 35,
+    "source_text": "array.  Traverse − print all the array elements one by one.  Insertion − Adds an element at the given index.  Deletion − Deletes an element at the given index.  Search − Searches an element using the given index or by the value.  Update − Updates an element at the given index. Array is created ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain list college mrcet as described in the document.",
+    "document_id": 46,
+    "chunk_index": 36,
+    "source_text": "(or any iterable), to the end of the current list index() Returns the index of the first element with the specified value insert() Adds an element at the specified position pop() Removes the element at the specified position remove() Removes the first item with the specified value reverse() Reverses",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of list mrcet append in Python?",
+    "document_id": 46,
+    "chunk_index": 37,
+    "source_text": "+ and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string. Python Expression Results Description len([1, 2, 3]) 3 Length [1, 2, 3] + [4, 5, 6] [1, 2, 3, 4, 5, 6] Concatenation ['Hi!'] * 4 ['Hi!', 'Hi!', 'Hi!', 'Hi!'] Repe",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is item list college defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 38,
+    "source_text": "3, 4, 3, 6, 9, 1] Insert: To add an item at the specified index, use the insert () method: >>> x=[1,2,4,6,7] PYTHON PROGRAMMING III YEAR/II SEM MRCET 82 >>> x.insert(2,10) #insert(index no, item to be inserted) >>> x [1, 2, 10, 4, 6, 7] ------------------------- >>> x.insert(4,['a',11]) >>> x [1, 2,",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about list item length?",
+    "document_id": 46,
+    "chunk_index": 39,
+    "source_text": "is T Method #2: For loop and range() In case we want to use the traditional for loop which iterates from number x to number y. # Python3 code to iterate over a list list = [1, 3, 5, 7, 9] # getting length of list length = len(list) # Iterating the index # same as 'for i in range(len(list))' for i in",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of 2, 10, 4, 6] >>> x in Python programming.",
+    "document_id": 46,
+    "chunk_index": 40,
+    "source_text": "2, 10, 4, 6] >>> x.pop(2) 10 >>> x [1, 2, 4, 6] Remove: The remove() method removes the specified item from a given list. >>> x=[1,33,2,10,4,6] >>> x.remove(33) >>> x [1, 2, 10, 4, 6] PYTHON PROGRAMMING III YEAR/II SEM MRCET 87 >>> x.remove(4) >>> x [1, 2, 10, 6] Reverse: Reverse the order of a give",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is the list itself, not just the reference in Python?",
+    "document_id": 46,
+    "chunk_index": 41,
+    "source_text": "the list itself, not just the reference. This process is sometimes called cloning, to avoid the ambiguity of the word copy. The easiest way to clone a list is to use the slice operator. Taking any slice of a creates a new list. In this case the slice happens to consist of the whole list. Example: a ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does tuple range print work in Python?",
+    "document_id": 46,
+    "chunk_index": 42,
+    "source_text": "49, 64, 81] (or) This is also equivalent to >>> list1=list(map(lambda x:x**2, range(10))) >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] (or) Which is more concise and redable. >>> list1=[x**2 for x in range(10)] >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] PYTHON PROGRAMMING III YEAR/II SEM MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain tuple items print as described in the document.",
+    "document_id": 46,
+    "chunk_index": 43,
+    "source_text": "tuple items  Change tuple items  Loop through a tuple  Count()  Index()  Length() PYTHON PROGRAMMING III YEAR/II SEM MRCET 93 Access tuple items: Access tuple items by referring to the index number, inside square brackets >>> x=('a','b','c','g') >>> print(x[2]) c Change tuple items: Once a tupl",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of tuple return mrcet in Python?",
+    "document_id": 46,
+    "chunk_index": 44,
+    "source_text": "of numbers in it PYTHON PROGRAMMING III YEAR/II SEM MRCET 95 We call the value for [0] in tuple and for tuple 2 we call the value between 1 and 4 Run the above code- It gives name mrcet for first tuple while for second tuple it gives number (2, 3, 4) Tuple as return values: A Tuple is a comma separa",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is a tuple: it is actually a generator defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 45,
+    "source_text": "a tuple: it is actually a generator. The only thing that you need to know now about a generator now is that you can iterate over it, but ONLY ONCE. So, given the code >>> x = (i for i in 'abc') >>> for i in x: print(i) a b c Create a list of 2-tuples like (number, square): >>> z=[(x, x**2) for x in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about year mrcet brand?",
+    "document_id": 46,
+    "chunk_index": 46,
+    "source_text": "found. If d is not provided and key is not found, raises KeyError. popitem() Remove and return an arbitary item (key, value). Raises KeyError if the dictionary is empty. setdefault(key[,d]) If key is in the dictionary, return its value. If not, insert key with a value of d and return d (defaults to ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of name uid customers in Python programming.",
+    "document_id": 46,
+    "chunk_index": 47,
+    "source_text": ">>> x = {1:1, 2:4, 3:9, 4:16, 5:25} >>> for key in x: print(key, x[key]) 1 1 2 4 3 9 PYTHON PROGRAMMING III YEAR/II SEM MRCET 101 4 16 5 25 >>> for k,v in x.items(): print(k,v) 1 1 2 4 3 9 4 16 5 25 List of Dictionaries: >>> customers = [{\"uid\":1,\"name\":\"John\"}, {\"uid\":2,\"name\":\"Smith\"}, {\"uid\":3,\"n",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is file files text in Python?",
+    "document_id": 46,
+    "chunk_index": 48,
+    "source_text": "errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. Files, Exceptions, Modules, Packages: Files and exception: A file is some information or data which stays in the computer storage devices. Python gives you easy ways to manipulate thes",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does file open mode work in Python?",
+    "document_id": 46,
+    "chunk_index": 49,
+    "source_text": "append and plus sign means if it is not there then create it File Modes in Python: Mode Description 'r' This is the default mode. It Opens file for reading. 'w' This Mode Opens file for writing. If file does not exist, it creates a new file. If file exists it truncates the file. 'x' Creates a new fi",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain sys command line as described in the document.",
+    "document_id": 46,
+    "chunk_index": 50,
+    "source_text": "to write the content “hi python programming” for the existing file. f=open(\"1.txt\",'w') f.write(\"hi python programming\") f.close() Output: In the above program the hello txt file consist of data like PYTHON PROGRAMMING III YEAR/II SEM MRCET 108 But when we try to write some data on to the same file ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of #print(sys in Python?",
+    "document_id": 46,
+    "chunk_index": 51,
+    "source_text": "#print(sys.argv[1]) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py ['C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py'] C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 110 Note: Sinc",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is in debug mode import getopt import sys argv = sys defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 52,
+    "source_text": "in debug mode import getopt import sys argv = sys.argv[0:] try: opts, args = getopt.getopt(argv, 'hm:d', ['help', 'my_file=']) #print(opts) print(args) except getopt.GetoptError: # Print a message or do something useful print('Something went wrong!') sys.exit(2) PYTHON PROGRAMMING III YEAR/II SEM MR",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about indentation, it insists on consistentindentation?",
+    "document_id": 46,
+    "chunk_index": 53,
+    "source_text": "indentation, it insists on consistentindentation. You are free to choose the number of spaces of indentation to use, but you then need to stick with it. Syntax errors: These are the most basic type of error. They arise when the Python parser is unable to understand a line of code. Syntax errors are ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of Both keywords are followed by indented blocks in Python programming.",
+    "document_id": 46,
+    "chunk_index": 54,
+    "source_text": "Both keywords are followed by indented blocks. Syntax: try : #statements in try block except : #executed when error in try block Typically we see, most of the times  Syntactical errors (wrong spelling, colon ( : ) missing ….), At developer level and compile level it gives errors.  Logical errors (",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is print zero resource in Python?",
+    "document_id": 46,
+    "chunk_index": 55,
+    "source_text": "by zero bye  The except block executes only when try block has an error, check it below a=5 b=2 try: print(a/b) except Exception: print(\"number can not be divided by zero\") print(\"bye\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex4.py 2.5  For example if you want to pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does resource print closed work in Python?",
+    "document_id": 46,
+    "chunk_index": 56,
+    "source_text": "a=5 b=2 try: print(\"resource opened\") print(a/b) except Exception as e: print(\"number can not be divided by zero\",e) print(\"resource closed\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex9.py resource opened 2.5  But again the same problem file/resource is not closed  To",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain modules module programming as described in the document.",
+    "document_id": 46,
+    "chunk_index": 57,
+    "source_text": "calendar, math): • Modules refer to a file containing Python statements and definitions. PYTHON PROGRAMMING III YEAR/II SEM MRCET 122 • We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code. • We can define our most us",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of import add module in Python?",
+    "document_id": 46,
+    "chunk_index": 58,
+    "source_text": "III YEAR/II SEM MRCET 123 Here, we have defined a function add() inside a module named example. The function takes in two numbers and returns their sum. How to import the module is: • We can import the definitions inside a module to another module or the Interactive interpreter in Python. • We use t",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is date import datetime a=datetime defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 59,
+    "source_text": "date import datetime a=datetime.date(2000,9,18) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/d1.py = 2000-09-18 # write a python program to display time import datetime a=datetime.time(5,3) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/py",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about the following cmd whether removed or not >>> os?",
+    "document_id": 46,
+    "chunk_index": 60,
+    "source_text": "the following cmd whether removed or not >>> os.access(\"t3.py\",os.F_OK) False >>> os.listdir() ['add.py', 'ali.py', 'alia.py', 'arr.py', 'arr2.py', 'arr3.py', 'arr4.py', 'arr5.py', 'arr6.py', 'br.py', 'br2.py', 'bubb.py', 'bubb2.py', 'bubb3.py', 'bubb4.py', 'bubbdesc.py', 'clo.py', 'cmndlinarg.py', ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of have renamed the math module as m in Python programming.",
+    "document_id": 46,
+    "chunk_index": 61,
+    "source_text": "have renamed the math module as m. This can save us typing time in some cases. • Note that the name math is not recognized in our scope. Hence, math.pi is invalid, m.pi is the correct implementation. Python from...import statement: • We can import specific names from a module without importing the m",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is named __init__ in Python?",
+    "document_id": 46,
+    "chunk_index": 62,
+    "source_text": "named __init__.py in order for Python to consider it as a package. This file can be left empty but we generally place the initialization code for that package in this file. • Here is an example. Suppose we are developing a game, one possible organization of packages and modules could be as shown in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does IIYEAR work in Python?",
+    "document_id": 46,
+    "chunk_index": 63,
+    "source_text": "IIYEAR.CSE.student import read >>> read PYTHON PROGRAMMING III YEAR/II SEM MRCET 137 <function read at 0x03BD1070> >>> read() Department >>> from IIYEAR.CSE.student import write >>> write() Student # Write a program to create and import module? def add(a=4,b=6): c=a+b return c Output: C:\\Users\\MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain list iii functions as described in the document.",
+    "document_id": 50,
+    "chunk_index": 0,
+    "source_text": "PYTHON PROGRAMMING III YEAR/II SEM MRCET PYTHON PROGRAMMING [R17A0554] LECTURE NOTES B.TECH III YEAR – II SEM (R17) (2019-20) DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING MALLA REDDY COLLEGE OF ENGINEERING & TECHNOLOGY (Autonomous Institution – UGC, Govt. of India) Recognized under 2(f) and 12 (B)",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of programming functions iii in Python?",
+    "document_id": 50,
+    "chunk_index": 1,
+    "source_text": "and exception: text files, reading and writing files, command line arguments, errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. PYTHON PROGRAMMING III YEAR/II SEM MRCET OUTCOMES: Upon completion of the course, students will be able to",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is list programming files defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 2,
+    "source_text": "operations 79 list slices 80 list methods 81 list loop 83 mutability 85 aliasing 87 cloning lists 88 list parameters 89 list comprehension 90 Tuples 91 tuple assignment 94 tuple as return value 95 tuple comprehension 96 Dictionaries 97 operations and methods 97 comprehension 102 V FILES, EXCEPTIONS,",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about interpreter which programming?",
+    "document_id": 50,
+    "chunk_index": 3,
+    "source_text": "Development Environment) which is installed when you install the python software from http://python.org/downloads/ 2) Writing first program: # Script Begins Statement1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 2 Statement2 Statement3 # Script Ends Differences between scripting language and programmin",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of and remembered: Step 1: Select Version of Python to Install in Python programming.",
+    "document_id": 50,
+    "chunk_index": 4,
+    "source_text": "and remembered: Step 1: Select Version of Python to Install. Step 2: Download Python Executable Installer. Step 3: Run Executable Installer. Step 4: Verify Python Was Installed On Windows. PYTHON PROGRAMMING III YEAR/II SEM MRCET 4 Step 5: Verify Pip Was Installed. Step 6: Add Python Path to Environ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is of the file in Python?",
+    "document_id": 50,
+    "chunk_index": 5,
+    "source_text": "of the file. For example, if you have a script name MyFile.py and you're working on Unix, to run the script you have to type: python MyFile.py Working with the interactive mode is better when Python programmers deal with small pieces of code as you can type and execute them immediately, but when the",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does <class 'bool'> >>> type(False) <class 'bool'> String: 1 work in Python?",
+    "document_id": 50,
+    "chunk_index": 6,
+    "source_text": "<class 'bool'> >>> type(False) <class 'bool'> String: 1. Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows for either pairs of single or double quotes. • 'hello' is the same as \"hello\". • Strings can be output to screen using the pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain variables variable list as described in the document.",
+    "document_id": 50,
+    "chunk_index": 7,
+    "source_text": "character \\newline Terminates input line Newline is ignored \\\\ Introduces escape sequence Literal backslash (\\) character In Python (and almost all other common computer languages), a tab character can be specified by the escape sequence \\t: >>> print(\"a\\tb\") a b List:  It is a general purpose most",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of variables in Python?",
+    "document_id": 50,
+    "chunk_index": 8,
+    "source_text": "variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. PYTHON PROGRAMMING III YEAR/II SEM MRCET 12 For example − a= 100 # An integer assignment b = 1000.0 # A floating point c = \"John\" # A s",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is An expression is evaluated using assignment operator defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 9,
+    "source_text": "An expression is evaluated using assignment operator. Examples: Y=x + 17 >>> x=10 >>> z=x+20 >>> z 30 PYTHON PROGRAMMING III YEAR/II SEM MRCET 14 >>> x=10 >>> y=20 >>> c=x+y >>> c 30 A value all by itself is a simple expression, and so is a variable. >>> y=20 >>> y 20 Python also defines expressions",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about print statements statement?",
+    "document_id": 50,
+    "chunk_index": 10,
+    "source_text": "if True else \"2\" >>> x '1' Statements: A statement is an instruction that the Python interpreter can execute. We have normally two basic statements, the assignment statement and the print statement. Some other kinds of statements that are if statements, while statements, and for statements generally",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of module line print in Python programming.",
+    "document_id": 50,
+    "chunk_index": 11,
+    "source_text": "e) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/opprec.py Value of (a + b) * c / d is 90.0 Value of ((a + b) * c) / d is 90.0 Value of (a + b) * (c / d) is 90.0 Value of a + (b * c) / d is 50.0 Comments: Single-line comments begins with a hash(#) symbol and is useful in ment",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is functions function statements in Python?",
+    "document_id": 50,
+    "chunk_index": 12,
+    "source_text": "False PYTHON PROGRAMMING III YEAR/II SEM MRCET 20 Functions: Functions and its use: Function is a group of related statements that perform a specific task. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and m",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does is called work in Python?",
+    "document_id": 50,
+    "chunk_index": 13,
+    "source_text": "is called. Example: #example for flow of execution print(\"welcome\") for x in range(3): print(x) print(\"Good morning college\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/flowof.py welcome 0 1 2 Good morning college The flow/order of execution is: 2,3,4,3,4,3,4,5 -----------",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain output mrcet wish as described in the document.",
+    "document_id": 50,
+    "chunk_index": 14,
+    "source_text": "Output: hello world ------------------------------- PYTHON PROGRAMMING III YEAR/II SEM MRCET 24 def hf(): print(\"hw\") print(\"gh kfjg 66666\") hf() hf() hf() Output: hw gh kfjg 66666 hw gh kfjg 66666 hw gh kfjg 66666 --------------------------------- def add(x,y): c=x+y print(c) add(5,4) Output: 9 def",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of values arguments func in Python?",
+    "document_id": 50,
+    "chunk_index": 15,
+    "source_text": "we call a function with some values, these values get assigned to the arguments according to their position. Python allows functions to be called using keyword arguments. When we call functions in this way, the order (position) of the arguments can be changed. (Or) If you have some functions with ma",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is value of 5 defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 16,
+    "source_text": "value of 5. In the third usage func(c=50, a=100), we use keyword arguments completely to specify the values. Notice, that we are specifying value for parameter c before that for a even though a is defined before c in the function definition. For example: if you define the function like below def fun",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about arguments function print?",
+    "document_id": 50,
+    "chunk_index": 17,
+    "source_text": "in advance about the arguments needed in function, we can use variable-length arguments also called arbitrary arguments. For this an asterisk (*) is placed before a parameter in function definition which can hold non-keyworded variable-length arguments and a double asterisk (**) is placed before a p",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of mrcet cse dept in Python programming.",
+    "document_id": 50,
+    "chunk_index": 18,
+    "source_text": "C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.py Enter a value 5 Enter b value-2 big number= 5 #program to find biggest of two numbers using functions. (nested if) def biggest(a,b,c): if a>b : if a>c : return a else : return c else : if b>c : return b else : return c a=int(input(",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is statement else greater in Python?",
+    "document_id": 50,
+    "chunk_index": 19,
+    "source_text": "'bool'> The == operator is one of the relational operators; the others are: x != y # x is not equal to y x > y # x is greater than y x < y # x is less than y x >= y # x is greater than or equal to y x <= y # x is less than or equal to y Note: All expressions involving relational and logical operator",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does else print elif work in Python?",
+    "document_id": 50,
+    "chunk_index": 20,
+    "source_text": "else stmts If - else Flowchart : PYTHON PROGRAMMING III YEAR/II SEM MRCET 38 Fig: Operation of if – else statement Example of if - else: a=int(input('enter the number')) if a>5: print(\"a is greater\") else: print(\"a is smaller than the input given\") Output: C:/Users/MRCET/AppData/Local/Programs/Pytho",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain a false expression value\") print(var) print(\"Good bye as described in the document.",
+    "document_id": 50,
+    "chunk_index": 21,
+    "source_text": "a false expression value\") print(var) print(\"Good bye!\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ifelif.py 3 - Got a true expression value 100 Good bye! PYTHON PROGRAMMING III YEAR/II SEM MRCET 41 Iteration: A loop statement allows us to execute a statement or group of ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of count print mrcet in Python?",
+    "document_id": 50,
+    "chunk_index": 22,
+    "source_text": "while (a<10): print ('Iteration',a) a = a + 1 b = b + 1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 44 if (b == 4): break print ('While loop terminated') Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/wh5.py Iteration 1 Iteration 2 Iteration 3 While loop terminated --------------",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is loop print mrcet defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 23,
+    "source_text": "college = {\"ces\":\"block1\",\"it\":\"block2\",\"ece\":\"block3\"} #Iterating over the dictionary to print keys print ('Keys are:') PYTHON PROGRAMMING III YEAR/II SEM MRCET 47 for keys in college: print (keys) #Iterating over the dictionary to print values print ('Values are:') for blocks in college.values(): ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about loop code inside?",
+    "document_id": 50,
+    "chunk_index": 24,
+    "source_text": "var in sequence: # code inside for loop If condition: break (if break condition satisfies it jumps to outside loop) # code inside for loop # code outside for loop PYTHON PROGRAMMING III YEAR/II SEM MRCET 50 while test expression # code inside while loop If condition: break (if break condition satisf",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of letter pass mrcet in Python programming.",
+    "document_id": 50,
+    "chunk_index": 25,
+    "source_text": "in \"string\": if val == \"i\": continue print(val) print(\"The end\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/cont.py s t r n g The end # program to display only odd numbers for num in [20, 11, 9, 66, 4, 89, 44]: PYTHON PROGRAMMING III YEAR/II SEM MRCET 53 # Skipping the ite",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is that returns a value is called Fruitful function in Python?",
+    "document_id": 50,
+    "chunk_index": 26,
+    "source_text": "that returns a value is called Fruitful function. A Function that does not return a value is called a void function Return values: The Keyword return is used to return back the value to the called function. # returns the area of a circle with the given radius: def area(radius): temp = 3.14 * radius*",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does function mrcet local work in Python?",
+    "document_id": 50,
+    "chunk_index": 27,
+    "source_text": "print(common_data([1,2,3,4,5], [6,7,8,9,10])) Output: C:\\Users\\MRCET\\AppData\\Local\\Programs\\Python\\Python38-32\\pyyy\\fu1.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 57 True True None #----------------- def area(radius): b = 3.14159 * radius**2 return b Parameters: Parameters are passed during the def",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain local global print as described in the document.",
+    "document_id": 50,
+    "chunk_index": 28,
+    "source_text": "............. global x #declaring global variable inside a function .............. # create a global variable PYTHON PROGRAMMING III YEAR/II SEM MRCET 60 x = \"global\" def f(): print(\"x inside :\", x) f() print(\"x outside:\", x) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of of one function is the input for another in Python?",
+    "document_id": 50,
+    "chunk_index": 29,
+    "source_text": "of one function is the input for another. So for example if you have two functions FunctionA and FunctionB you compose them by doing the following. FunctionB(FunctionA(x)) Here x is the input for FunctionA and the result of that is the input for FunctionB. Example 1: #create a function compose2 >>> ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is a sequence of characters defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 30,
+    "source_text": "a sequence of characters. Since Python has no provision for arrays, we simply use strings. This is how we declare a string. We can use a pair of single or double quotes. Every string object is of the type ‘str’. >>> type(\"name\") <class 'str'> >>> name=str() >>> name '' >>> a=str('mrcet') >>> a 'mrce",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about string returns true?",
+    "document_id": 50,
+    "chunk_index": 31,
+    "source_text": "x[:5] 'compu' >>> x[-1] 'r' >>> x[-3:] 'ter' >>> x[:-2] 'comput' >>> x[::-2] 'rtpo' >>> x[::-1] 'retupmoc' Immutability: It is tempting to use the [] operator on the left side of an assignment, with the intention of changing a character in a string. For example: >>> greeting='mrcet college!' >>> gre",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of occurrences if max given in Python programming.",
+    "document_id": 50,
+    "chunk_index": 32,
+    "source_text": "occurrences if max given. 10. split() Splits string according to delimiter str (space if not provided) and returns list of substrings; 11. count() Occurrence of a string in another string 12. find() Finding the index of the first occurrence of a string in another string 13. swapcase() Converts lower",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is string=\"Nikhil Is Learning\" >>> string in Python?",
+    "document_id": 50,
+    "chunk_index": 33,
+    "source_text": "string=\"Nikhil Is Learning\" >>> string.istitle() True 8. isupper() isupper() returns true if string has characters that are in uppercase and false otherwise. Syntax: String.isupper() Example: >>> string=\"HELLO\" >>> string.isupper() True 9. replace() replace() method replaces all occurrences of old i",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does string print array work in Python?",
+    "document_id": 50,
+    "chunk_index": 34,
+    "source_text": "constants and classes Syntax: import string Note: help(string) --- gives the information about all the variables ,functions, attributes and classes to be used in string module. Example: import string print(string.ascii_letters) print(string.ascii_lowercase) print(string.ascii_uppercase) print(string",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain array element represents as described in the document.",
+    "document_id": 50,
+    "chunk_index": 35,
+    "source_text": "array.  Traverse − print all the array elements one by one.  Insertion − Adds an element at the given index.  Deletion − Deletes an element at the given index.  Search − Searches an element using the given index or by the value.  Update − Updates an element at the given index. Array is created ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of list college mrcet in Python?",
+    "document_id": 50,
+    "chunk_index": 36,
+    "source_text": "(or any iterable), to the end of the current list index() Returns the index of the first element with the specified value insert() Adds an element at the specified position pop() Removes the element at the specified position remove() Removes the first item with the specified value reverse() Reverses",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is list mrcet append defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 37,
+    "source_text": "+ and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string. Python Expression Results Description len([1, 2, 3]) 3 Length [1, 2, 3] + [4, 5, 6] [1, 2, 3, 4, 5, 6] Concatenation ['Hi!'] * 4 ['Hi!', 'Hi!', 'Hi!', 'Hi!'] Repe",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about item list college?",
+    "document_id": 50,
+    "chunk_index": 38,
+    "source_text": "3, 4, 3, 6, 9, 1] Insert: To add an item at the specified index, use the insert () method: >>> x=[1,2,4,6,7] PYTHON PROGRAMMING III YEAR/II SEM MRCET 82 >>> x.insert(2,10) #insert(index no, item to be inserted) >>> x [1, 2, 10, 4, 6, 7] ------------------------- >>> x.insert(4,['a',11]) >>> x [1, 2,",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of list item length in Python programming.",
+    "document_id": 50,
+    "chunk_index": 39,
+    "source_text": "is T Method #2: For loop and range() In case we want to use the traditional for loop which iterates from number x to number y. # Python3 code to iterate over a list list = [1, 3, 5, 7, 9] # getting length of list length = len(list) # Iterating the index # same as 'for i in range(len(list))' for i in",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is 2, 10, 4, 6] >>> x in Python?",
+    "document_id": 50,
+    "chunk_index": 40,
+    "source_text": "2, 10, 4, 6] >>> x.pop(2) 10 >>> x [1, 2, 4, 6] Remove: The remove() method removes the specified item from a given list. >>> x=[1,33,2,10,4,6] >>> x.remove(33) >>> x [1, 2, 10, 4, 6] PYTHON PROGRAMMING III YEAR/II SEM MRCET 87 >>> x.remove(4) >>> x [1, 2, 10, 6] Reverse: Reverse the order of a give",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does the list itself, not just the reference work in Python?",
+    "document_id": 50,
+    "chunk_index": 41,
+    "source_text": "the list itself, not just the reference. This process is sometimes called cloning, to avoid the ambiguity of the word copy. The easiest way to clone a list is to use the slice operator. Taking any slice of a creates a new list. In this case the slice happens to consist of the whole list. Example: a ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain tuple range print as described in the document.",
+    "document_id": 50,
+    "chunk_index": 42,
+    "source_text": "49, 64, 81] (or) This is also equivalent to >>> list1=list(map(lambda x:x**2, range(10))) >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] (or) Which is more concise and redable. >>> list1=[x**2 for x in range(10)] >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] PYTHON PROGRAMMING III YEAR/II SEM MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of tuple items print in Python?",
+    "document_id": 50,
+    "chunk_index": 43,
+    "source_text": "tuple items  Change tuple items  Loop through a tuple  Count()  Index()  Length() PYTHON PROGRAMMING III YEAR/II SEM MRCET 93 Access tuple items: Access tuple items by referring to the index number, inside square brackets >>> x=('a','b','c','g') >>> print(x[2]) c Change tuple items: Once a tupl",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is tuple return mrcet defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 44,
+    "source_text": "of numbers in it PYTHON PROGRAMMING III YEAR/II SEM MRCET 95 We call the value for [0] in tuple and for tuple 2 we call the value between 1 and 4 Run the above code- It gives name mrcet for first tuple while for second tuple it gives number (2, 3, 4) Tuple as return values: A Tuple is a comma separa",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about a tuple: it is actually a generator?",
+    "document_id": 50,
+    "chunk_index": 45,
+    "source_text": "a tuple: it is actually a generator. The only thing that you need to know now about a generator now is that you can iterate over it, but ONLY ONCE. So, given the code >>> x = (i for i in 'abc') >>> for i in x: print(i) a b c Create a list of 2-tuples like (number, square): >>> z=[(x, x**2) for x in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of year mrcet brand in Python programming.",
+    "document_id": 50,
+    "chunk_index": 46,
+    "source_text": "found. If d is not provided and key is not found, raises KeyError. popitem() Remove and return an arbitary item (key, value). Raises KeyError if the dictionary is empty. setdefault(key[,d]) If key is in the dictionary, return its value. If not, insert key with a value of d and return d (defaults to ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is name uid customers in Python?",
+    "document_id": 50,
+    "chunk_index": 47,
+    "source_text": ">>> x = {1:1, 2:4, 3:9, 4:16, 5:25} >>> for key in x: print(key, x[key]) 1 1 2 4 3 9 PYTHON PROGRAMMING III YEAR/II SEM MRCET 101 4 16 5 25 >>> for k,v in x.items(): print(k,v) 1 1 2 4 3 9 4 16 5 25 List of Dictionaries: >>> customers = [{\"uid\":1,\"name\":\"John\"}, {\"uid\":2,\"name\":\"Smith\"}, {\"uid\":3,\"n",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does file files text work in Python?",
+    "document_id": 50,
+    "chunk_index": 48,
+    "source_text": "errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. Files, Exceptions, Modules, Packages: Files and exception: A file is some information or data which stays in the computer storage devices. Python gives you easy ways to manipulate thes",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain file open mode as described in the document.",
+    "document_id": 50,
+    "chunk_index": 49,
+    "source_text": "append and plus sign means if it is not there then create it File Modes in Python: Mode Description 'r' This is the default mode. It Opens file for reading. 'w' This Mode Opens file for writing. If file does not exist, it creates a new file. If file exists it truncates the file. 'x' Creates a new fi",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of sys command line in Python?",
+    "document_id": 50,
+    "chunk_index": 50,
+    "source_text": "to write the content “hi python programming” for the existing file. f=open(\"1.txt\",'w') f.write(\"hi python programming\") f.close() Output: In the above program the hello txt file consist of data like PYTHON PROGRAMMING III YEAR/II SEM MRCET 108 But when we try to write some data on to the same file ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is #print(sys defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 51,
+    "source_text": "#print(sys.argv[1]) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py ['C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py'] C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 110 Note: Sinc",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about in debug mode import getopt import sys argv = sys?",
+    "document_id": 50,
+    "chunk_index": 52,
+    "source_text": "in debug mode import getopt import sys argv = sys.argv[0:] try: opts, args = getopt.getopt(argv, 'hm:d', ['help', 'my_file=']) #print(opts) print(args) except getopt.GetoptError: # Print a message or do something useful print('Something went wrong!') sys.exit(2) PYTHON PROGRAMMING III YEAR/II SEM MR",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of indentation, it insists on consistentindentation in Python programming.",
+    "document_id": 50,
+    "chunk_index": 53,
+    "source_text": "indentation, it insists on consistentindentation. You are free to choose the number of spaces of indentation to use, but you then need to stick with it. Syntax errors: These are the most basic type of error. They arise when the Python parser is unable to understand a line of code. Syntax errors are ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is Both keywords are followed by indented blocks in Python?",
+    "document_id": 50,
+    "chunk_index": 54,
+    "source_text": "Both keywords are followed by indented blocks. Syntax: try : #statements in try block except : #executed when error in try block Typically we see, most of the times  Syntactical errors (wrong spelling, colon ( : ) missing ….), At developer level and compile level it gives errors.  Logical errors (",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does print zero resource work in Python?",
+    "document_id": 50,
+    "chunk_index": 55,
+    "source_text": "by zero bye  The except block executes only when try block has an error, check it below a=5 b=2 try: print(a/b) except Exception: print(\"number can not be divided by zero\") print(\"bye\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex4.py 2.5  For example if you want to pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain resource print closed as described in the document.",
+    "document_id": 50,
+    "chunk_index": 56,
+    "source_text": "a=5 b=2 try: print(\"resource opened\") print(a/b) except Exception as e: print(\"number can not be divided by zero\",e) print(\"resource closed\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex9.py resource opened 2.5  But again the same problem file/resource is not closed  To",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of modules module programming in Python?",
+    "document_id": 50,
+    "chunk_index": 57,
+    "source_text": "calendar, math): • Modules refer to a file containing Python statements and definitions. PYTHON PROGRAMMING III YEAR/II SEM MRCET 122 • We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code. • We can define our most us",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is import add module defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 58,
+    "source_text": "III YEAR/II SEM MRCET 123 Here, we have defined a function add() inside a module named example. The function takes in two numbers and returns their sum. How to import the module is: • We can import the definitions inside a module to another module or the Interactive interpreter in Python. • We use t",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about date import datetime a=datetime?",
+    "document_id": 50,
+    "chunk_index": 59,
+    "source_text": "date import datetime a=datetime.date(2000,9,18) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/d1.py = 2000-09-18 # write a python program to display time import datetime a=datetime.time(5,3) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/py",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of the following cmd whether removed or not >>> os in Python programming.",
+    "document_id": 50,
+    "chunk_index": 60,
+    "source_text": "the following cmd whether removed or not >>> os.access(\"t3.py\",os.F_OK) False >>> os.listdir() ['add.py', 'ali.py', 'alia.py', 'arr.py', 'arr2.py', 'arr3.py', 'arr4.py', 'arr5.py', 'arr6.py', 'br.py', 'br2.py', 'bubb.py', 'bubb2.py', 'bubb3.py', 'bubb4.py', 'bubbdesc.py', 'clo.py', 'cmndlinarg.py', ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is have renamed the math module as m in Python?",
+    "document_id": 50,
+    "chunk_index": 61,
+    "source_text": "have renamed the math module as m. This can save us typing time in some cases. • Note that the name math is not recognized in our scope. Hence, math.pi is invalid, m.pi is the correct implementation. Python from...import statement: • We can import specific names from a module without importing the m",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does named __init__ work in Python?",
+    "document_id": 50,
+    "chunk_index": 62,
+    "source_text": "named __init__.py in order for Python to consider it as a package. This file can be left empty but we generally place the initialization code for that package in this file. • Here is an example. Suppose we are developing a game, one possible organization of packages and modules could be as shown in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain IIYEAR as described in the document.",
+    "document_id": 50,
+    "chunk_index": 63,
+    "source_text": "IIYEAR.CSE.student import read >>> read PYTHON PROGRAMMING III YEAR/II SEM MRCET 137 <function read at 0x03BD1070> >>> read() Department >>> from IIYEAR.CSE.student import write >>> write() Student # Write a program to create and import module? def add(a=4,b=6): c=a+b return c Output: C:\\Users\\MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of list iii functions in Python?",
+    "document_id": 51,
+    "chunk_index": 0,
+    "source_text": "PYTHON PROGRAMMING III YEAR/II SEM MRCET PYTHON PROGRAMMING [R17A0554] LECTURE NOTES B.TECH III YEAR – II SEM (R17) (2019-20) DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING MALLA REDDY COLLEGE OF ENGINEERING & TECHNOLOGY (Autonomous Institution – UGC, Govt. of India) Recognized under 2(f) and 12 (B)",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is programming functions iii defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 1,
+    "source_text": "and exception: text files, reading and writing files, command line arguments, errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. PYTHON PROGRAMMING III YEAR/II SEM MRCET OUTCOMES: Upon completion of the course, students will be able to",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about list programming files?",
+    "document_id": 51,
+    "chunk_index": 2,
+    "source_text": "operations 79 list slices 80 list methods 81 list loop 83 mutability 85 aliasing 87 cloning lists 88 list parameters 89 list comprehension 90 Tuples 91 tuple assignment 94 tuple as return value 95 tuple comprehension 96 Dictionaries 97 operations and methods 97 comprehension 102 V FILES, EXCEPTIONS,",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of interpreter which programming in Python programming.",
+    "document_id": 51,
+    "chunk_index": 3,
+    "source_text": "Development Environment) which is installed when you install the python software from http://python.org/downloads/ 2) Writing first program: # Script Begins Statement1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 2 Statement2 Statement3 # Script Ends Differences between scripting language and programmin",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is and remembered: Step 1: Select Version of Python to Install in Python?",
+    "document_id": 51,
+    "chunk_index": 4,
+    "source_text": "and remembered: Step 1: Select Version of Python to Install. Step 2: Download Python Executable Installer. Step 3: Run Executable Installer. Step 4: Verify Python Was Installed On Windows. PYTHON PROGRAMMING III YEAR/II SEM MRCET 4 Step 5: Verify Pip Was Installed. Step 6: Add Python Path to Environ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does of the file work in Python?",
+    "document_id": 51,
+    "chunk_index": 5,
+    "source_text": "of the file. For example, if you have a script name MyFile.py and you're working on Unix, to run the script you have to type: python MyFile.py Working with the interactive mode is better when Python programmers deal with small pieces of code as you can type and execute them immediately, but when the",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain <class 'bool'> >>> type(False) <class 'bool'> String: 1 as described in the document.",
+    "document_id": 51,
+    "chunk_index": 6,
+    "source_text": "<class 'bool'> >>> type(False) <class 'bool'> String: 1. Strings in Python are identified as a contiguous set of characters represented in the quotation marks. Python allows for either pairs of single or double quotes. • 'hello' is the same as \"hello\". • Strings can be output to screen using the pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of variables variable list in Python?",
+    "document_id": 51,
+    "chunk_index": 7,
+    "source_text": "character \\newline Terminates input line Newline is ignored \\\\ Introduces escape sequence Literal backslash (\\) character In Python (and almost all other common computer languages), a tab character can be specified by the escape sequence \\t: >>> print(\"a\\tb\") a b List:  It is a general purpose most",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is variables defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 8,
+    "source_text": "variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. PYTHON PROGRAMMING III YEAR/II SEM MRCET 12 For example − a= 100 # An integer assignment b = 1000.0 # A floating point c = \"John\" # A s",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about An expression is evaluated using assignment operator?",
+    "document_id": 51,
+    "chunk_index": 9,
+    "source_text": "An expression is evaluated using assignment operator. Examples: Y=x + 17 >>> x=10 >>> z=x+20 >>> z 30 PYTHON PROGRAMMING III YEAR/II SEM MRCET 14 >>> x=10 >>> y=20 >>> c=x+y >>> c 30 A value all by itself is a simple expression, and so is a variable. >>> y=20 >>> y 20 Python also defines expressions",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of print statements statement in Python programming.",
+    "document_id": 51,
+    "chunk_index": 10,
+    "source_text": "if True else \"2\" >>> x '1' Statements: A statement is an instruction that the Python interpreter can execute. We have normally two basic statements, the assignment statement and the print statement. Some other kinds of statements that are if statements, while statements, and for statements generally",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is module line print in Python?",
+    "document_id": 51,
+    "chunk_index": 11,
+    "source_text": "e) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/opprec.py Value of (a + b) * c / d is 90.0 Value of ((a + b) * c) / d is 90.0 Value of (a + b) * (c / d) is 90.0 Value of a + (b * c) / d is 50.0 Comments: Single-line comments begins with a hash(#) symbol and is useful in ment",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does functions function statements work in Python?",
+    "document_id": 51,
+    "chunk_index": 12,
+    "source_text": "False PYTHON PROGRAMMING III YEAR/II SEM MRCET 20 Functions: Functions and its use: Function is a group of related statements that perform a specific task. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and m",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain is called as described in the document.",
+    "document_id": 51,
+    "chunk_index": 13,
+    "source_text": "is called. Example: #example for flow of execution print(\"welcome\") for x in range(3): print(x) print(\"Good morning college\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/flowof.py welcome 0 1 2 Good morning college The flow/order of execution is: 2,3,4,3,4,3,4,5 -----------",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of output mrcet wish in Python?",
+    "document_id": 51,
+    "chunk_index": 14,
+    "source_text": "Output: hello world ------------------------------- PYTHON PROGRAMMING III YEAR/II SEM MRCET 24 def hf(): print(\"hw\") print(\"gh kfjg 66666\") hf() hf() hf() Output: hw gh kfjg 66666 hw gh kfjg 66666 hw gh kfjg 66666 --------------------------------- def add(x,y): c=x+y print(c) add(5,4) Output: 9 def",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is values arguments func defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 15,
+    "source_text": "we call a function with some values, these values get assigned to the arguments according to their position. Python allows functions to be called using keyword arguments. When we call functions in this way, the order (position) of the arguments can be changed. (Or) If you have some functions with ma",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about value of 5?",
+    "document_id": 51,
+    "chunk_index": 16,
+    "source_text": "value of 5. In the third usage func(c=50, a=100), we use keyword arguments completely to specify the values. Notice, that we are specifying value for parameter c before that for a even though a is defined before c in the function definition. For example: if you define the function like below def fun",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of arguments function print in Python programming.",
+    "document_id": 51,
+    "chunk_index": 17,
+    "source_text": "in advance about the arguments needed in function, we can use variable-length arguments also called arbitrary arguments. For this an asterisk (*) is placed before a parameter in function definition which can hold non-keyworded variable-length arguments and a double asterisk (**) is placed before a p",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is mrcet cse dept in Python?",
+    "document_id": 51,
+    "chunk_index": 18,
+    "source_text": "C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.py Enter a value 5 Enter b value-2 big number= 5 #program to find biggest of two numbers using functions. (nested if) def biggest(a,b,c): if a>b : if a>c : return a else : return c else : if b>c : return b else : return c a=int(input(",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does statement else greater work in Python?",
+    "document_id": 51,
+    "chunk_index": 19,
+    "source_text": "'bool'> The == operator is one of the relational operators; the others are: x != y # x is not equal to y x > y # x is greater than y x < y # x is less than y x >= y # x is greater than or equal to y x <= y # x is less than or equal to y Note: All expressions involving relational and logical operator",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain else print elif as described in the document.",
+    "document_id": 51,
+    "chunk_index": 20,
+    "source_text": "else stmts If - else Flowchart : PYTHON PROGRAMMING III YEAR/II SEM MRCET 38 Fig: Operation of if – else statement Example of if - else: a=int(input('enter the number')) if a>5: print(\"a is greater\") else: print(\"a is smaller than the input given\") Output: C:/Users/MRCET/AppData/Local/Programs/Pytho",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of a false expression value\") print(var) print(\"Good bye in Python?",
+    "document_id": 51,
+    "chunk_index": 21,
+    "source_text": "a false expression value\") print(var) print(\"Good bye!\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ifelif.py 3 - Got a true expression value 100 Good bye! PYTHON PROGRAMMING III YEAR/II SEM MRCET 41 Iteration: A loop statement allows us to execute a statement or group of ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is count print mrcet defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 22,
+    "source_text": "while (a<10): print ('Iteration',a) a = a + 1 b = b + 1 PYTHON PROGRAMMING III YEAR/II SEM MRCET 44 if (b == 4): break print ('While loop terminated') Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/wh5.py Iteration 1 Iteration 2 Iteration 3 While loop terminated --------------",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about loop print mrcet?",
+    "document_id": 51,
+    "chunk_index": 23,
+    "source_text": "college = {\"ces\":\"block1\",\"it\":\"block2\",\"ece\":\"block3\"} #Iterating over the dictionary to print keys print ('Keys are:') PYTHON PROGRAMMING III YEAR/II SEM MRCET 47 for keys in college: print (keys) #Iterating over the dictionary to print values print ('Values are:') for blocks in college.values(): ",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of loop code inside in Python programming.",
+    "document_id": 51,
+    "chunk_index": 24,
+    "source_text": "var in sequence: # code inside for loop If condition: break (if break condition satisfies it jumps to outside loop) # code inside for loop # code outside for loop PYTHON PROGRAMMING III YEAR/II SEM MRCET 50 while test expression # code inside while loop If condition: break (if break condition satisf",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is letter pass mrcet in Python?",
+    "document_id": 51,
+    "chunk_index": 25,
+    "source_text": "in \"string\": if val == \"i\": continue print(val) print(\"The end\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/cont.py s t r n g The end # program to display only odd numbers for num in [20, 11, 9, 66, 4, 89, 44]: PYTHON PROGRAMMING III YEAR/II SEM MRCET 53 # Skipping the ite",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does that returns a value is called Fruitful function work in Python?",
+    "document_id": 51,
+    "chunk_index": 26,
+    "source_text": "that returns a value is called Fruitful function. A Function that does not return a value is called a void function Return values: The Keyword return is used to return back the value to the called function. # returns the area of a circle with the given radius: def area(radius): temp = 3.14 * radius*",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain function mrcet local as described in the document.",
+    "document_id": 51,
+    "chunk_index": 27,
+    "source_text": "print(common_data([1,2,3,4,5], [6,7,8,9,10])) Output: C:\\Users\\MRCET\\AppData\\Local\\Programs\\Python\\Python38-32\\pyyy\\fu1.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 57 True True None #----------------- def area(radius): b = 3.14159 * radius**2 return b Parameters: Parameters are passed during the def",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of local global print in Python?",
+    "document_id": 51,
+    "chunk_index": 28,
+    "source_text": "............. global x #declaring global variable inside a function .............. # create a global variable PYTHON PROGRAMMING III YEAR/II SEM MRCET 60 x = \"global\" def f(): print(\"x inside :\", x) f() print(\"x outside:\", x) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/fu1.",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is of one function is the input for another defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 29,
+    "source_text": "of one function is the input for another. So for example if you have two functions FunctionA and FunctionB you compose them by doing the following. FunctionB(FunctionA(x)) Here x is the input for FunctionA and the result of that is the input for FunctionB. Example 1: #create a function compose2 >>> ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about a sequence of characters?",
+    "document_id": 51,
+    "chunk_index": 30,
+    "source_text": "a sequence of characters. Since Python has no provision for arrays, we simply use strings. This is how we declare a string. We can use a pair of single or double quotes. Every string object is of the type ‘str’. >>> type(\"name\") <class 'str'> >>> name=str() >>> name '' >>> a=str('mrcet') >>> a 'mrce",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of string returns true in Python programming.",
+    "document_id": 51,
+    "chunk_index": 31,
+    "source_text": "x[:5] 'compu' >>> x[-1] 'r' >>> x[-3:] 'ter' >>> x[:-2] 'comput' >>> x[::-2] 'rtpo' >>> x[::-1] 'retupmoc' Immutability: It is tempting to use the [] operator on the left side of an assignment, with the intention of changing a character in a string. For example: >>> greeting='mrcet college!' >>> gre",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is occurrences if max given in Python?",
+    "document_id": 51,
+    "chunk_index": 32,
+    "source_text": "occurrences if max given. 10. split() Splits string according to delimiter str (space if not provided) and returns list of substrings; 11. count() Occurrence of a string in another string 12. find() Finding the index of the first occurrence of a string in another string 13. swapcase() Converts lower",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does string=\"Nikhil Is Learning\" >>> string work in Python?",
+    "document_id": 51,
+    "chunk_index": 33,
+    "source_text": "string=\"Nikhil Is Learning\" >>> string.istitle() True 8. isupper() isupper() returns true if string has characters that are in uppercase and false otherwise. Syntax: String.isupper() Example: >>> string=\"HELLO\" >>> string.isupper() True 9. replace() replace() method replaces all occurrences of old i",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain string print array as described in the document.",
+    "document_id": 51,
+    "chunk_index": 34,
+    "source_text": "constants and classes Syntax: import string Note: help(string) --- gives the information about all the variables ,functions, attributes and classes to be used in string module. Example: import string print(string.ascii_letters) print(string.ascii_lowercase) print(string.ascii_uppercase) print(string",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of array element represents in Python?",
+    "document_id": 51,
+    "chunk_index": 35,
+    "source_text": "array.  Traverse − print all the array elements one by one.  Insertion − Adds an element at the given index.  Deletion − Deletes an element at the given index.  Search − Searches an element using the given index or by the value.  Update − Updates an element at the given index. Array is created ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is list college mrcet defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 36,
+    "source_text": "(or any iterable), to the end of the current list index() Returns the index of the first element with the specified value insert() Adds an element at the specified position pop() Removes the element at the specified position remove() Removes the first item with the specified value reverse() Reverses",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about list mrcet append?",
+    "document_id": 51,
+    "chunk_index": 37,
+    "source_text": "+ and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string. Python Expression Results Description len([1, 2, 3]) 3 Length [1, 2, 3] + [4, 5, 6] [1, 2, 3, 4, 5, 6] Concatenation ['Hi!'] * 4 ['Hi!', 'Hi!', 'Hi!', 'Hi!'] Repe",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of item list college in Python programming.",
+    "document_id": 51,
+    "chunk_index": 38,
+    "source_text": "3, 4, 3, 6, 9, 1] Insert: To add an item at the specified index, use the insert () method: >>> x=[1,2,4,6,7] PYTHON PROGRAMMING III YEAR/II SEM MRCET 82 >>> x.insert(2,10) #insert(index no, item to be inserted) >>> x [1, 2, 10, 4, 6, 7] ------------------------- >>> x.insert(4,['a',11]) >>> x [1, 2,",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is list item length in Python?",
+    "document_id": 51,
+    "chunk_index": 39,
+    "source_text": "is T Method #2: For loop and range() In case we want to use the traditional for loop which iterates from number x to number y. # Python3 code to iterate over a list list = [1, 3, 5, 7, 9] # getting length of list length = len(list) # Iterating the index # same as 'for i in range(len(list))' for i in",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does 2, 10, 4, 6] >>> x work in Python?",
+    "document_id": 51,
+    "chunk_index": 40,
+    "source_text": "2, 10, 4, 6] >>> x.pop(2) 10 >>> x [1, 2, 4, 6] Remove: The remove() method removes the specified item from a given list. >>> x=[1,33,2,10,4,6] >>> x.remove(33) >>> x [1, 2, 10, 4, 6] PYTHON PROGRAMMING III YEAR/II SEM MRCET 87 >>> x.remove(4) >>> x [1, 2, 10, 6] Reverse: Reverse the order of a give",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain the list itself, not just the reference as described in the document.",
+    "document_id": 51,
+    "chunk_index": 41,
+    "source_text": "the list itself, not just the reference. This process is sometimes called cloning, to avoid the ambiguity of the word copy. The easiest way to clone a list is to use the slice operator. Taking any slice of a creates a new list. In this case the slice happens to consist of the whole list. Example: a ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of tuple range print in Python?",
+    "document_id": 51,
+    "chunk_index": 42,
+    "source_text": "49, 64, 81] (or) This is also equivalent to >>> list1=list(map(lambda x:x**2, range(10))) >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] (or) Which is more concise and redable. >>> list1=[x**2 for x in range(10)] >>> list1 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81] PYTHON PROGRAMMING III YEAR/II SEM MRCET",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is tuple items print defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 43,
+    "source_text": "tuple items  Change tuple items  Loop through a tuple  Count()  Index()  Length() PYTHON PROGRAMMING III YEAR/II SEM MRCET 93 Access tuple items: Access tuple items by referring to the index number, inside square brackets >>> x=('a','b','c','g') >>> print(x[2]) c Change tuple items: Once a tupl",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about tuple return mrcet?",
+    "document_id": 51,
+    "chunk_index": 44,
+    "source_text": "of numbers in it PYTHON PROGRAMMING III YEAR/II SEM MRCET 95 We call the value for [0] in tuple and for tuple 2 we call the value between 1 and 4 Run the above code- It gives name mrcet for first tuple while for second tuple it gives number (2, 3, 4) Tuple as return values: A Tuple is a comma separa",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of a tuple: it is actually a generator in Python programming.",
+    "document_id": 51,
+    "chunk_index": 45,
+    "source_text": "a tuple: it is actually a generator. The only thing that you need to know now about a generator now is that you can iterate over it, but ONLY ONCE. So, given the code >>> x = (i for i in 'abc') >>> for i in x: print(i) a b c Create a list of 2-tuples like (number, square): >>> z=[(x, x**2) for x in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is year mrcet brand in Python?",
+    "document_id": 51,
+    "chunk_index": 46,
+    "source_text": "found. If d is not provided and key is not found, raises KeyError. popitem() Remove and return an arbitary item (key, value). Raises KeyError if the dictionary is empty. setdefault(key[,d]) If key is in the dictionary, return its value. If not, insert key with a value of d and return d (defaults to ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does name uid customers work in Python?",
+    "document_id": 51,
+    "chunk_index": 47,
+    "source_text": ">>> x = {1:1, 2:4, 3:9, 4:16, 5:25} >>> for key in x: print(key, x[key]) 1 1 2 4 3 9 PYTHON PROGRAMMING III YEAR/II SEM MRCET 101 4 16 5 25 >>> for k,v in x.items(): print(k,v) 1 1 2 4 3 9 4 16 5 25 List of Dictionaries: >>> customers = [{\"uid\":1,\"name\":\"John\"}, {\"uid\":2,\"name\":\"Smith\"}, {\"uid\":3,\"n",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain file files text as described in the document.",
+    "document_id": 51,
+    "chunk_index": 48,
+    "source_text": "errors and exceptions, handling exceptions, modules (datetime, time, OS , calendar, math module), Explore packages. Files, Exceptions, Modules, Packages: Files and exception: A file is some information or data which stays in the computer storage devices. Python gives you easy ways to manipulate thes",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of file open mode in Python?",
+    "document_id": 51,
+    "chunk_index": 49,
+    "source_text": "append and plus sign means if it is not there then create it File Modes in Python: Mode Description 'r' This is the default mode. It Opens file for reading. 'w' This Mode Opens file for writing. If file does not exist, it creates a new file. If file exists it truncates the file. 'x' Creates a new fi",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is sys command line defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 50,
+    "source_text": "to write the content “hi python programming” for the existing file. f=open(\"1.txt\",'w') f.write(\"hi python programming\") f.close() Output: In the above program the hello txt file consist of data like PYTHON PROGRAMMING III YEAR/II SEM MRCET 108 But when we try to write some data on to the same file ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about #print(sys?",
+    "document_id": 51,
+    "chunk_index": 51,
+    "source_text": "#print(sys.argv[1]) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py ['C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py'] C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/cmndlinarg.py PYTHON PROGRAMMING III YEAR/II SEM MRCET 110 Note: Sinc",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of in debug mode import getopt import sys argv = sys in Python programming.",
+    "document_id": 51,
+    "chunk_index": 52,
+    "source_text": "in debug mode import getopt import sys argv = sys.argv[0:] try: opts, args = getopt.getopt(argv, 'hm:d', ['help', 'my_file=']) #print(opts) print(args) except getopt.GetoptError: # Print a message or do something useful print('Something went wrong!') sys.exit(2) PYTHON PROGRAMMING III YEAR/II SEM MR",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is indentation, it insists on consistentindentation in Python?",
+    "document_id": 51,
+    "chunk_index": 53,
+    "source_text": "indentation, it insists on consistentindentation. You are free to choose the number of spaces of indentation to use, but you then need to stick with it. Syntax errors: These are the most basic type of error. They arise when the Python parser is unable to understand a line of code. Syntax errors are ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does Both keywords are followed by indented blocks work in Python?",
+    "document_id": 51,
+    "chunk_index": 54,
+    "source_text": "Both keywords are followed by indented blocks. Syntax: try : #statements in try block except : #executed when error in try block Typically we see, most of the times  Syntactical errors (wrong spelling, colon ( : ) missing ….), At developer level and compile level it gives errors.  Logical errors (",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain print zero resource as described in the document.",
+    "document_id": 51,
+    "chunk_index": 55,
+    "source_text": "by zero bye  The except block executes only when try block has an error, check it below a=5 b=2 try: print(a/b) except Exception: print(\"number can not be divided by zero\") print(\"bye\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex4.py 2.5  For example if you want to pri",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of resource print closed in Python?",
+    "document_id": 51,
+    "chunk_index": 56,
+    "source_text": "a=5 b=2 try: print(\"resource opened\") print(a/b) except Exception as e: print(\"number can not be divided by zero\",e) print(\"resource closed\") Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/ex9.py resource opened 2.5  But again the same problem file/resource is not closed  To",
+    "generated_by": "template"
+  },
+  {
+    "question": "How is modules module programming defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 57,
+    "source_text": "calendar, math): • Modules refer to a file containing Python statements and definitions. PYTHON PROGRAMMING III YEAR/II SEM MRCET 122 • We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code. • We can define our most us",
+    "generated_by": "template"
+  },
+  {
+    "question": "What does the document say about import add module?",
+    "document_id": 51,
+    "chunk_index": 58,
+    "source_text": "III YEAR/II SEM MRCET 123 Here, we have defined a function add() inside a module named example. The function takes in two numbers and returns their sum. How to import the module is: • We can import the definitions inside a module to another module or the Interactive interpreter in Python. • We use t",
+    "generated_by": "template"
+  },
+  {
+    "question": "Describe the role of date import datetime a=datetime in Python programming.",
+    "document_id": 51,
+    "chunk_index": 59,
+    "source_text": "date import datetime a=datetime.date(2000,9,18) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/pyyy/d1.py = 2000-09-18 # write a python program to display time import datetime a=datetime.time(5,3) print(a) Output: C:/Users/MRCET/AppData/Local/Programs/Python/Python38-32/py",
+    "generated_by": "template"
+  },
+  {
+    "question": "What is the following cmd whether removed or not >>> os in Python?",
+    "document_id": 51,
+    "chunk_index": 60,
+    "source_text": "the following cmd whether removed or not >>> os.access(\"t3.py\",os.F_OK) False >>> os.listdir() ['add.py', 'ali.py', 'alia.py', 'arr.py', 'arr2.py', 'arr3.py', 'arr4.py', 'arr5.py', 'arr6.py', 'br.py', 'br2.py', 'bubb.py', 'bubb2.py', 'bubb3.py', 'bubb4.py', 'bubbdesc.py', 'clo.py', 'cmndlinarg.py', ",
+    "generated_by": "template"
+  },
+  {
+    "question": "How does have renamed the math module as m work in Python?",
+    "document_id": 51,
+    "chunk_index": 61,
+    "source_text": "have renamed the math module as m. This can save us typing time in some cases. • Note that the name math is not recognized in our scope. Hence, math.pi is invalid, m.pi is the correct implementation. Python from...import statement: • We can import specific names from a module without importing the m",
+    "generated_by": "template"
+  },
+  {
+    "question": "Explain named __init__ as described in the document.",
+    "document_id": 51,
+    "chunk_index": 62,
+    "source_text": "named __init__.py in order for Python to consider it as a package. This file can be left empty but we generally place the initialization code for that package in this file. • Here is an example. Suppose we are developing a game, one possible organization of packages and modules could be as shown in ",
+    "generated_by": "template"
+  },
+  {
+    "question": "What are the features or uses of IIYEAR in Python?",
+    "document_id": 51,
+    "chunk_index": 63,
+    "source_text": "IIYEAR.CSE.student import read >>> read PYTHON PROGRAMMING III YEAR/II SEM MRCET 137 <function read at 0x03BD1070> >>> read() Department >>> from IIYEAR.CSE.student import write >>> write() Student # Write a program to create and import module? def add(a=4,b=6): c=a+b return c Output: C:\\Users\\MRCET",
+    "generated_by": "template"
+  }
+]

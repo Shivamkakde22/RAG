@@ -1,0 +1,2562 @@
+[
+  {
+    "question": "What is list iii functions in Python?",
+    "document_id": 44,
+    "chunk_index": 0,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 2.073,
+    "status": "ok"
+  },
+  {
+    "question": "How does programming functions iii work in Python?",
+    "document_id": 44,
+    "chunk_index": 1,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.249,
+    "status": "ok"
+  },
+  {
+    "question": "Explain list programming files as described in the document.",
+    "document_id": 44,
+    "chunk_index": 2,
+    "n_retrieved": 13,
+    "top_score": 0.0881,
+    "avg_score": 0.0439,
+    "latency_s": 0.262,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of interpreter which programming in Python?",
+    "document_id": 44,
+    "chunk_index": 3,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "How is and remembered: Step 1: Select Version of Python to Install defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 4,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.284,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about of the file?",
+    "document_id": 44,
+    "chunk_index": 5,
+    "n_retrieved": 7,
+    "top_score": 0.0965,
+    "avg_score": 0.0627,
+    "latency_s": 0.251,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of <class 'bool'> >>> type(False) <class 'bool'> String: 1 in Python programming.",
+    "document_id": 44,
+    "chunk_index": 6,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.313,
+    "status": "ok"
+  },
+  {
+    "question": "What is variables variable list in Python?",
+    "document_id": 44,
+    "chunk_index": 7,
+    "n_retrieved": 13,
+    "top_score": 0.0946,
+    "avg_score": 0.0439,
+    "latency_s": 0.336,
+    "status": "ok"
+  },
+  {
+    "question": "How does variables work in Python?",
+    "document_id": 44,
+    "chunk_index": 8,
+    "n_retrieved": 14,
+    "top_score": 0.086,
+    "avg_score": 0.0408,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "Explain An expression is evaluated using assignment operator as described in the document.",
+    "document_id": 44,
+    "chunk_index": 9,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.251,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of print statements statement in Python?",
+    "document_id": 44,
+    "chunk_index": 10,
+    "n_retrieved": 13,
+    "top_score": 0.0852,
+    "avg_score": 0.0439,
+    "latency_s": 0.333,
+    "status": "ok"
+  },
+  {
+    "question": "How is module line print defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 11,
+    "n_retrieved": 13,
+    "top_score": 0.0912,
+    "avg_score": 0.0439,
+    "latency_s": 0.311,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about functions function statements?",
+    "document_id": 44,
+    "chunk_index": 12,
+    "n_retrieved": 12,
+    "top_score": 0.0927,
+    "avg_score": 0.0476,
+    "latency_s": 0.288,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of is called in Python programming.",
+    "document_id": 44,
+    "chunk_index": 13,
+    "n_retrieved": 13,
+    "top_score": 0.0867,
+    "avg_score": 0.0439,
+    "latency_s": 0.3,
+    "status": "ok"
+  },
+  {
+    "question": "What is output mrcet wish in Python?",
+    "document_id": 44,
+    "chunk_index": 14,
+    "n_retrieved": 14,
+    "top_score": 0.092,
+    "avg_score": 0.0408,
+    "latency_s": 0.298,
+    "status": "ok"
+  },
+  {
+    "question": "How does values arguments func work in Python?",
+    "document_id": 44,
+    "chunk_index": 15,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.295,
+    "status": "ok"
+  },
+  {
+    "question": "Explain value of 5 as described in the document.",
+    "document_id": 44,
+    "chunk_index": 16,
+    "n_retrieved": 9,
+    "top_score": 0.0862,
+    "avg_score": 0.0518,
+    "latency_s": 0.297,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of arguments function print in Python?",
+    "document_id": 44,
+    "chunk_index": 17,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.322,
+    "status": "ok"
+  },
+  {
+    "question": "How is mrcet cse dept defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 18,
+    "n_retrieved": 7,
+    "top_score": 0.0917,
+    "avg_score": 0.0543,
+    "latency_s": 0.247,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about statement else greater?",
+    "document_id": 44,
+    "chunk_index": 19,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.252,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of else print elif in Python programming.",
+    "document_id": 44,
+    "chunk_index": 20,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.256,
+    "status": "ok"
+  },
+  {
+    "question": "What is a false expression value\") print(var) print(\"Good bye in Python?",
+    "document_id": 44,
+    "chunk_index": 21,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.268,
+    "status": "ok"
+  },
+  {
+    "question": "How does count print mrcet work in Python?",
+    "document_id": 44,
+    "chunk_index": 22,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.276,
+    "status": "ok"
+  },
+  {
+    "question": "Explain loop print mrcet as described in the document.",
+    "document_id": 44,
+    "chunk_index": 23,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of loop code inside in Python?",
+    "document_id": 44,
+    "chunk_index": 24,
+    "n_retrieved": 11,
+    "top_score": 0.0917,
+    "avg_score": 0.0519,
+    "latency_s": 0.279,
+    "status": "ok"
+  },
+  {
+    "question": "How is letter pass mrcet defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 25,
+    "n_retrieved": 13,
+    "top_score": 0.0928,
+    "avg_score": 0.0439,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about that returns a value is called Fruitful function?",
+    "document_id": 44,
+    "chunk_index": 26,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.239,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of function mrcet local in Python programming.",
+    "document_id": 44,
+    "chunk_index": 27,
+    "n_retrieved": 14,
+    "top_score": 0.0889,
+    "avg_score": 0.0408,
+    "latency_s": 0.274,
+    "status": "ok"
+  },
+  {
+    "question": "What is local global print in Python?",
+    "document_id": 44,
+    "chunk_index": 28,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.242,
+    "status": "ok"
+  },
+  {
+    "question": "How does of one function is the input for another work in Python?",
+    "document_id": 44,
+    "chunk_index": 29,
+    "n_retrieved": 14,
+    "top_score": 0.0928,
+    "avg_score": 0.0408,
+    "latency_s": 0.231,
+    "status": "ok"
+  },
+  {
+    "question": "Explain a sequence of characters as described in the document.",
+    "document_id": 44,
+    "chunk_index": 30,
+    "n_retrieved": 12,
+    "top_score": 0.0927,
+    "avg_score": 0.0476,
+    "latency_s": 0.263,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of string returns true in Python?",
+    "document_id": 44,
+    "chunk_index": 31,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.272,
+    "status": "ok"
+  },
+  {
+    "question": "How is occurrences if max given defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 32,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.274,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about string=\"Nikhil Is Learning\" >>> string?",
+    "document_id": 44,
+    "chunk_index": 33,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.241,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of string print array in Python programming.",
+    "document_id": 44,
+    "chunk_index": 34,
+    "n_retrieved": 12,
+    "top_score": 0.092,
+    "avg_score": 0.0476,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "What is array element represents in Python?",
+    "document_id": 44,
+    "chunk_index": 35,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.244,
+    "status": "ok"
+  },
+  {
+    "question": "How does list college mrcet work in Python?",
+    "document_id": 44,
+    "chunk_index": 36,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.263,
+    "status": "ok"
+  },
+  {
+    "question": "Explain list mrcet append as described in the document.",
+    "document_id": 44,
+    "chunk_index": 37,
+    "n_retrieved": 11,
+    "top_score": 0.0937,
+    "avg_score": 0.0519,
+    "latency_s": 0.256,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of item list college in Python?",
+    "document_id": 44,
+    "chunk_index": 38,
+    "n_retrieved": 13,
+    "top_score": 0.0893,
+    "avg_score": 0.0439,
+    "latency_s": 0.261,
+    "status": "ok"
+  },
+  {
+    "question": "How is list item length defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 39,
+    "n_retrieved": 14,
+    "top_score": 0.092,
+    "avg_score": 0.0408,
+    "latency_s": 0.256,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about 2, 10, 4, 6] >>> x?",
+    "document_id": 44,
+    "chunk_index": 40,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.232,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of the list itself, not just the reference in Python programming.",
+    "document_id": 44,
+    "chunk_index": 41,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.23,
+    "status": "ok"
+  },
+  {
+    "question": "What is tuple range print in Python?",
+    "document_id": 44,
+    "chunk_index": 42,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.252,
+    "status": "ok"
+  },
+  {
+    "question": "How does tuple items print work in Python?",
+    "document_id": 44,
+    "chunk_index": 43,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.252,
+    "status": "ok"
+  },
+  {
+    "question": "Explain tuple return mrcet as described in the document.",
+    "document_id": 44,
+    "chunk_index": 44,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.298,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of a tuple: it is actually a generator in Python?",
+    "document_id": 44,
+    "chunk_index": 45,
+    "n_retrieved": 11,
+    "top_score": 0.092,
+    "avg_score": 0.0519,
+    "latency_s": 0.285,
+    "status": "ok"
+  },
+  {
+    "question": "How is year mrcet brand defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 46,
+    "n_retrieved": 5,
+    "top_score": 0.064,
+    "avg_score": 0.0571,
+    "latency_s": 0.289,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about name uid customers?",
+    "document_id": 44,
+    "chunk_index": 47,
+    "n_retrieved": 5,
+    "top_score": 0.0965,
+    "avg_score": 0.0636,
+    "latency_s": 0.317,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of file files text in Python programming.",
+    "document_id": 44,
+    "chunk_index": 48,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.391,
+    "status": "ok"
+  },
+  {
+    "question": "What is file open mode in Python?",
+    "document_id": 44,
+    "chunk_index": 49,
+    "n_retrieved": 10,
+    "top_score": 0.0965,
+    "avg_score": 0.0571,
+    "latency_s": 0.285,
+    "status": "ok"
+  },
+  {
+    "question": "How does sys command line work in Python?",
+    "document_id": 44,
+    "chunk_index": 50,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.3,
+    "status": "ok"
+  },
+  {
+    "question": "Explain #print(sys as described in the document.",
+    "document_id": 44,
+    "chunk_index": 51,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.312,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of in debug mode import getopt import sys argv = sys in Python?",
+    "document_id": 44,
+    "chunk_index": 52,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.305,
+    "status": "ok"
+  },
+  {
+    "question": "How is indentation, it insists on consistentindentation defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 53,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0434,
+    "latency_s": 0.345,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about Both keywords are followed by indented blocks?",
+    "document_id": 44,
+    "chunk_index": 54,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.309,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of print zero resource in Python programming.",
+    "document_id": 44,
+    "chunk_index": 55,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.457,
+    "status": "ok"
+  },
+  {
+    "question": "What is resource print closed in Python?",
+    "document_id": 44,
+    "chunk_index": 56,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.331,
+    "status": "ok"
+  },
+  {
+    "question": "How does modules module programming work in Python?",
+    "document_id": 44,
+    "chunk_index": 57,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.514,
+    "status": "ok"
+  },
+  {
+    "question": "Explain import add module as described in the document.",
+    "document_id": 44,
+    "chunk_index": 58,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.356,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of date import datetime a=datetime in Python?",
+    "document_id": 44,
+    "chunk_index": 59,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.431,
+    "status": "ok"
+  },
+  {
+    "question": "How is the following cmd whether removed or not >>> os defined according to the text?",
+    "document_id": 44,
+    "chunk_index": 60,
+    "n_retrieved": 8,
+    "top_score": 0.0965,
+    "avg_score": 0.0548,
+    "latency_s": 0.35,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about have renamed the math module as m?",
+    "document_id": 44,
+    "chunk_index": 61,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.24,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of named __init__ in Python programming.",
+    "document_id": 44,
+    "chunk_index": 62,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.396,
+    "status": "ok"
+  },
+  {
+    "question": "What is IIYEAR in Python?",
+    "document_id": 44,
+    "chunk_index": 63,
+    "n_retrieved": 14,
+    "top_score": 0.0905,
+    "avg_score": 0.0408,
+    "latency_s": 0.41,
+    "status": "ok"
+  },
+  {
+    "question": "How does list iii functions work in Python?",
+    "document_id": 46,
+    "chunk_index": 0,
+    "n_retrieved": 14,
+    "top_score": 0.0855,
+    "avg_score": 0.0408,
+    "latency_s": 0.288,
+    "status": "ok"
+  },
+  {
+    "question": "Explain programming functions iii as described in the document.",
+    "document_id": 46,
+    "chunk_index": 1,
+    "n_retrieved": 14,
+    "top_score": 0.0864,
+    "avg_score": 0.0408,
+    "latency_s": 0.408,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of list programming files in Python?",
+    "document_id": 46,
+    "chunk_index": 2,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.333,
+    "status": "ok"
+  },
+  {
+    "question": "How is interpreter which programming defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 3,
+    "n_retrieved": 13,
+    "top_score": 0.0873,
+    "avg_score": 0.0439,
+    "latency_s": 0.342,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about and remembered: Step 1: Select Version of Python to Install?",
+    "document_id": 46,
+    "chunk_index": 4,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.359,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of of the file in Python programming.",
+    "document_id": 46,
+    "chunk_index": 5,
+    "n_retrieved": 12,
+    "top_score": 0.0882,
+    "avg_score": 0.0476,
+    "latency_s": 0.328,
+    "status": "ok"
+  },
+  {
+    "question": "What is <class 'bool'> >>> type(False) <class 'bool'> String: 1 in Python?",
+    "document_id": 46,
+    "chunk_index": 6,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "How does variables variable list work in Python?",
+    "document_id": 46,
+    "chunk_index": 7,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.697,
+    "status": "ok"
+  },
+  {
+    "question": "Explain variables as described in the document.",
+    "document_id": 46,
+    "chunk_index": 8,
+    "n_retrieved": 13,
+    "top_score": 0.0917,
+    "avg_score": 0.0439,
+    "latency_s": 0.289,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of An expression is evaluated using assignment operator in Python?",
+    "document_id": 46,
+    "chunk_index": 9,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.281,
+    "status": "ok"
+  },
+  {
+    "question": "How is print statements statement defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 10,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.356,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about module line print?",
+    "document_id": 46,
+    "chunk_index": 11,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.388,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of functions function statements in Python programming.",
+    "document_id": 46,
+    "chunk_index": 12,
+    "n_retrieved": 13,
+    "top_score": 0.0917,
+    "avg_score": 0.0439,
+    "latency_s": 0.401,
+    "status": "ok"
+  },
+  {
+    "question": "What is is called in Python?",
+    "document_id": 46,
+    "chunk_index": 13,
+    "n_retrieved": 14,
+    "top_score": 0.0789,
+    "avg_score": 0.0408,
+    "latency_s": 0.399,
+    "status": "ok"
+  },
+  {
+    "question": "How does output mrcet wish work in Python?",
+    "document_id": 46,
+    "chunk_index": 14,
+    "n_retrieved": 13,
+    "top_score": 0.0937,
+    "avg_score": 0.0439,
+    "latency_s": 0.293,
+    "status": "ok"
+  },
+  {
+    "question": "Explain values arguments func as described in the document.",
+    "document_id": 46,
+    "chunk_index": 15,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.325,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of value of 5 in Python?",
+    "document_id": 46,
+    "chunk_index": 16,
+    "n_retrieved": 13,
+    "top_score": 0.0893,
+    "avg_score": 0.0439,
+    "latency_s": 0.307,
+    "status": "ok"
+  },
+  {
+    "question": "How is arguments function print defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 17,
+    "n_retrieved": 12,
+    "top_score": 0.0917,
+    "avg_score": 0.0476,
+    "latency_s": 0.299,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about mrcet cse dept?",
+    "document_id": 46,
+    "chunk_index": 18,
+    "n_retrieved": 5,
+    "top_score": 0.064,
+    "avg_score": 0.0571,
+    "latency_s": 0.639,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of statement else greater in Python programming.",
+    "document_id": 46,
+    "chunk_index": 19,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.308,
+    "status": "ok"
+  },
+  {
+    "question": "What is else print elif in Python?",
+    "document_id": 46,
+    "chunk_index": 20,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.279,
+    "status": "ok"
+  },
+  {
+    "question": "How does a false expression value\") print(var) print(\"Good bye work in Python?",
+    "document_id": 46,
+    "chunk_index": 21,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.385,
+    "status": "ok"
+  },
+  {
+    "question": "Explain count print mrcet as described in the document.",
+    "document_id": 46,
+    "chunk_index": 22,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0473,
+    "latency_s": 0.301,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of loop print mrcet in Python?",
+    "document_id": 46,
+    "chunk_index": 23,
+    "n_retrieved": 13,
+    "top_score": 0.0882,
+    "avg_score": 0.0439,
+    "latency_s": 0.298,
+    "status": "ok"
+  },
+  {
+    "question": "How is loop code inside defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 24,
+    "n_retrieved": 12,
+    "top_score": 0.0907,
+    "avg_score": 0.0476,
+    "latency_s": 0.335,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about letter pass mrcet?",
+    "document_id": 46,
+    "chunk_index": 25,
+    "n_retrieved": 5,
+    "top_score": 0.064,
+    "avg_score": 0.0571,
+    "latency_s": 0.315,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of that returns a value is called Fruitful function in Python programming.",
+    "document_id": 46,
+    "chunk_index": 26,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "What is function mrcet local in Python?",
+    "document_id": 46,
+    "chunk_index": 27,
+    "n_retrieved": 13,
+    "top_score": 0.0853,
+    "avg_score": 0.0439,
+    "latency_s": 0.279,
+    "status": "ok"
+  },
+  {
+    "question": "How does local global print work in Python?",
+    "document_id": 46,
+    "chunk_index": 28,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.321,
+    "status": "ok"
+  },
+  {
+    "question": "Explain of one function is the input for another as described in the document.",
+    "document_id": 46,
+    "chunk_index": 29,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of a sequence of characters in Python?",
+    "document_id": 46,
+    "chunk_index": 30,
+    "n_retrieved": 13,
+    "top_score": 0.0882,
+    "avg_score": 0.0439,
+    "latency_s": 0.285,
+    "status": "ok"
+  },
+  {
+    "question": "How is string returns true defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 31,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.285,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about occurrences if max given?",
+    "document_id": 46,
+    "chunk_index": 32,
+    "n_retrieved": 7,
+    "top_score": 0.0873,
+    "avg_score": 0.0543,
+    "latency_s": 0.371,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of string=\"Nikhil Is Learning\" >>> string in Python programming.",
+    "document_id": 46,
+    "chunk_index": 33,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "What is string print array in Python?",
+    "document_id": 46,
+    "chunk_index": 34,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.305,
+    "status": "ok"
+  },
+  {
+    "question": "How does array element represents work in Python?",
+    "document_id": 46,
+    "chunk_index": 35,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.286,
+    "status": "ok"
+  },
+  {
+    "question": "Explain list college mrcet as described in the document.",
+    "document_id": 46,
+    "chunk_index": 36,
+    "n_retrieved": 9,
+    "top_score": 0.0965,
+    "avg_score": 0.0549,
+    "latency_s": 0.371,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of list mrcet append in Python?",
+    "document_id": 46,
+    "chunk_index": 37,
+    "n_retrieved": 11,
+    "top_score": 0.0927,
+    "avg_score": 0.0519,
+    "latency_s": 0.275,
+    "status": "ok"
+  },
+  {
+    "question": "How is item list college defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 38,
+    "n_retrieved": 14,
+    "top_score": 0.0825,
+    "avg_score": 0.0408,
+    "latency_s": 0.345,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about list item length?",
+    "document_id": 46,
+    "chunk_index": 39,
+    "n_retrieved": 9,
+    "top_score": 0.0928,
+    "avg_score": 0.0487,
+    "latency_s": 0.634,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of 2, 10, 4, 6] >>> x in Python programming.",
+    "document_id": 46,
+    "chunk_index": 40,
+    "n_retrieved": 14,
+    "top_score": 0.0825,
+    "avg_score": 0.0408,
+    "latency_s": 0.291,
+    "status": "ok"
+  },
+  {
+    "question": "What is the list itself, not just the reference in Python?",
+    "document_id": 46,
+    "chunk_index": 41,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.364,
+    "status": "ok"
+  },
+  {
+    "question": "How does tuple range print work in Python?",
+    "document_id": 46,
+    "chunk_index": 42,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.295,
+    "status": "ok"
+  },
+  {
+    "question": "Explain tuple items print as described in the document.",
+    "document_id": 46,
+    "chunk_index": 43,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.298,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of tuple return mrcet in Python?",
+    "document_id": 46,
+    "chunk_index": 44,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.245,
+    "status": "ok"
+  },
+  {
+    "question": "How is a tuple: it is actually a generator defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 45,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.292,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about year mrcet brand?",
+    "document_id": 46,
+    "chunk_index": 46,
+    "n_retrieved": 5,
+    "top_score": 0.064,
+    "avg_score": 0.0571,
+    "latency_s": 0.328,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of name uid customers in Python programming.",
+    "document_id": 46,
+    "chunk_index": 47,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.359,
+    "status": "ok"
+  },
+  {
+    "question": "What is file files text in Python?",
+    "document_id": 46,
+    "chunk_index": 48,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.279,
+    "status": "ok"
+  },
+  {
+    "question": "How does file open mode work in Python?",
+    "document_id": 46,
+    "chunk_index": 49,
+    "n_retrieved": 10,
+    "top_score": 0.0965,
+    "avg_score": 0.0571,
+    "latency_s": 0.282,
+    "status": "ok"
+  },
+  {
+    "question": "Explain sys command line as described in the document.",
+    "document_id": 46,
+    "chunk_index": 50,
+    "n_retrieved": 13,
+    "top_score": 0.0928,
+    "avg_score": 0.0439,
+    "latency_s": 0.305,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of #print(sys in Python?",
+    "document_id": 46,
+    "chunk_index": 51,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.25,
+    "status": "ok"
+  },
+  {
+    "question": "How is in debug mode import getopt import sys argv = sys defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 52,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.268,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about indentation, it insists on consistentindentation?",
+    "document_id": 46,
+    "chunk_index": 53,
+    "n_retrieved": 6,
+    "top_score": 0.0965,
+    "avg_score": 0.0583,
+    "latency_s": 0.283,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of Both keywords are followed by indented blocks in Python programming.",
+    "document_id": 46,
+    "chunk_index": 54,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.246,
+    "status": "ok"
+  },
+  {
+    "question": "What is print zero resource in Python?",
+    "document_id": 46,
+    "chunk_index": 55,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "How does resource print closed work in Python?",
+    "document_id": 46,
+    "chunk_index": 56,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.28,
+    "status": "ok"
+  },
+  {
+    "question": "Explain modules module programming as described in the document.",
+    "document_id": 46,
+    "chunk_index": 57,
+    "n_retrieved": 10,
+    "top_score": 0.0905,
+    "avg_score": 0.0571,
+    "latency_s": 0.282,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of import add module in Python?",
+    "document_id": 46,
+    "chunk_index": 58,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.295,
+    "status": "ok"
+  },
+  {
+    "question": "How is date import datetime a=datetime defined according to the text?",
+    "document_id": 46,
+    "chunk_index": 59,
+    "n_retrieved": 11,
+    "top_score": 0.0927,
+    "avg_score": 0.0519,
+    "latency_s": 0.265,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about the following cmd whether removed or not >>> os?",
+    "document_id": 46,
+    "chunk_index": 60,
+    "n_retrieved": 5,
+    "top_score": 0.0965,
+    "avg_score": 0.0699,
+    "latency_s": 0.283,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of have renamed the math module as m in Python programming.",
+    "document_id": 46,
+    "chunk_index": 61,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.251,
+    "status": "ok"
+  },
+  {
+    "question": "What is named __init__ in Python?",
+    "document_id": 46,
+    "chunk_index": 62,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.28,
+    "status": "ok"
+  },
+  {
+    "question": "How does IIYEAR work in Python?",
+    "document_id": 46,
+    "chunk_index": 63,
+    "n_retrieved": 14,
+    "top_score": 0.0905,
+    "avg_score": 0.0408,
+    "latency_s": 0.29,
+    "status": "ok"
+  },
+  {
+    "question": "Explain list iii functions as described in the document.",
+    "document_id": 50,
+    "chunk_index": 0,
+    "n_retrieved": 14,
+    "top_score": 0.0874,
+    "avg_score": 0.0408,
+    "latency_s": 0.271,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of programming functions iii in Python?",
+    "document_id": 50,
+    "chunk_index": 1,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.277,
+    "status": "ok"
+  },
+  {
+    "question": "How is list programming files defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 2,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about interpreter which programming?",
+    "document_id": 50,
+    "chunk_index": 3,
+    "n_retrieved": 14,
+    "top_score": 0.0893,
+    "avg_score": 0.0408,
+    "latency_s": 0.262,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of and remembered: Step 1: Select Version of Python to Install in Python programming.",
+    "document_id": 50,
+    "chunk_index": 4,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.245,
+    "status": "ok"
+  },
+  {
+    "question": "What is of the file in Python?",
+    "document_id": 50,
+    "chunk_index": 5,
+    "n_retrieved": 12,
+    "top_score": 0.0893,
+    "avg_score": 0.0476,
+    "latency_s": 0.333,
+    "status": "ok"
+  },
+  {
+    "question": "How does <class 'bool'> >>> type(False) <class 'bool'> String: 1 work in Python?",
+    "document_id": 50,
+    "chunk_index": 6,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.268,
+    "status": "ok"
+  },
+  {
+    "question": "Explain variables variable list as described in the document.",
+    "document_id": 50,
+    "chunk_index": 7,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.294,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of variables in Python?",
+    "document_id": 50,
+    "chunk_index": 8,
+    "n_retrieved": 13,
+    "top_score": 0.0882,
+    "avg_score": 0.0439,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "How is An expression is evaluated using assignment operator defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 9,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.269,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about print statements statement?",
+    "document_id": 50,
+    "chunk_index": 10,
+    "n_retrieved": 13,
+    "top_score": 0.0862,
+    "avg_score": 0.0439,
+    "latency_s": 0.258,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of module line print in Python programming.",
+    "document_id": 50,
+    "chunk_index": 11,
+    "n_retrieved": 14,
+    "top_score": 0.0893,
+    "avg_score": 0.0408,
+    "latency_s": 0.355,
+    "status": "ok"
+  },
+  {
+    "question": "What is functions function statements in Python?",
+    "document_id": 50,
+    "chunk_index": 12,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.262,
+    "status": "ok"
+  },
+  {
+    "question": "How does is called work in Python?",
+    "document_id": 50,
+    "chunk_index": 13,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.256,
+    "status": "ok"
+  },
+  {
+    "question": "Explain output mrcet wish as described in the document.",
+    "document_id": 50,
+    "chunk_index": 14,
+    "n_retrieved": 10,
+    "top_score": 0.064,
+    "avg_score": 0.0439,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of values arguments func in Python?",
+    "document_id": 50,
+    "chunk_index": 15,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.235,
+    "status": "ok"
+  },
+  {
+    "question": "How is value of 5 defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 16,
+    "n_retrieved": 12,
+    "top_score": 0.0898,
+    "avg_score": 0.0476,
+    "latency_s": 0.272,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about arguments function print?",
+    "document_id": 50,
+    "chunk_index": 17,
+    "n_retrieved": 11,
+    "top_score": 0.0946,
+    "avg_score": 0.0519,
+    "latency_s": 0.311,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of mrcet cse dept in Python programming.",
+    "document_id": 50,
+    "chunk_index": 18,
+    "n_retrieved": 14,
+    "top_score": 0.0867,
+    "avg_score": 0.0408,
+    "latency_s": 0.23,
+    "status": "ok"
+  },
+  {
+    "question": "What is statement else greater in Python?",
+    "document_id": 50,
+    "chunk_index": 19,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.243,
+    "status": "ok"
+  },
+  {
+    "question": "How does else print elif work in Python?",
+    "document_id": 50,
+    "chunk_index": 20,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.253,
+    "status": "ok"
+  },
+  {
+    "question": "Explain a false expression value\") print(var) print(\"Good bye as described in the document.",
+    "document_id": 50,
+    "chunk_index": 21,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.236,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of count print mrcet in Python?",
+    "document_id": 50,
+    "chunk_index": 22,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.231,
+    "status": "ok"
+  },
+  {
+    "question": "How is loop print mrcet defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 23,
+    "n_retrieved": 12,
+    "top_score": 0.0862,
+    "avg_score": 0.0476,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about loop code inside?",
+    "document_id": 50,
+    "chunk_index": 24,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.265,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of letter pass mrcet in Python programming.",
+    "document_id": 50,
+    "chunk_index": 25,
+    "n_retrieved": 14,
+    "top_score": 0.0928,
+    "avg_score": 0.0408,
+    "latency_s": 0.322,
+    "status": "ok"
+  },
+  {
+    "question": "What is that returns a value is called Fruitful function in Python?",
+    "document_id": 50,
+    "chunk_index": 26,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.596,
+    "status": "ok"
+  },
+  {
+    "question": "How does function mrcet local work in Python?",
+    "document_id": 50,
+    "chunk_index": 27,
+    "n_retrieved": 14,
+    "top_score": 0.0928,
+    "avg_score": 0.0408,
+    "latency_s": 0.517,
+    "status": "ok"
+  },
+  {
+    "question": "Explain local global print as described in the document.",
+    "document_id": 50,
+    "chunk_index": 28,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of of one function is the input for another in Python?",
+    "document_id": 50,
+    "chunk_index": 29,
+    "n_retrieved": 13,
+    "top_score": 0.0917,
+    "avg_score": 0.0439,
+    "latency_s": 0.436,
+    "status": "ok"
+  },
+  {
+    "question": "How is a sequence of characters defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 30,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.362,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about string returns true?",
+    "document_id": 50,
+    "chunk_index": 31,
+    "n_retrieved": 12,
+    "top_score": 0.0917,
+    "avg_score": 0.0476,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of occurrences if max given in Python programming.",
+    "document_id": 50,
+    "chunk_index": 32,
+    "n_retrieved": 14,
+    "top_score": 0.0927,
+    "avg_score": 0.0408,
+    "latency_s": 0.306,
+    "status": "ok"
+  },
+  {
+    "question": "What is string=\"Nikhil Is Learning\" >>> string in Python?",
+    "document_id": 50,
+    "chunk_index": 33,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.244,
+    "status": "ok"
+  },
+  {
+    "question": "How does string print array work in Python?",
+    "document_id": 50,
+    "chunk_index": 34,
+    "n_retrieved": 12,
+    "top_score": 0.0928,
+    "avg_score": 0.0476,
+    "latency_s": 0.251,
+    "status": "ok"
+  },
+  {
+    "question": "Explain array element represents as described in the document.",
+    "document_id": 50,
+    "chunk_index": 35,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.304,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of list college mrcet in Python?",
+    "document_id": 50,
+    "chunk_index": 36,
+    "n_retrieved": 13,
+    "top_score": 0.0907,
+    "avg_score": 0.0439,
+    "latency_s": 0.229,
+    "status": "ok"
+  },
+  {
+    "question": "How is list mrcet append defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 37,
+    "n_retrieved": 11,
+    "top_score": 0.092,
+    "avg_score": 0.0519,
+    "latency_s": 0.275,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about item list college?",
+    "document_id": 50,
+    "chunk_index": 38,
+    "n_retrieved": 7,
+    "top_score": 0.0955,
+    "avg_score": 0.0543,
+    "latency_s": 0.286,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of list item length in Python programming.",
+    "document_id": 50,
+    "chunk_index": 39,
+    "n_retrieved": 13,
+    "top_score": 0.0946,
+    "avg_score": 0.0439,
+    "latency_s": 0.421,
+    "status": "ok"
+  },
+  {
+    "question": "What is 2, 10, 4, 6] >>> x in Python?",
+    "document_id": 50,
+    "chunk_index": 40,
+    "n_retrieved": 13,
+    "top_score": 0.0862,
+    "avg_score": 0.0439,
+    "latency_s": 0.255,
+    "status": "ok"
+  },
+  {
+    "question": "How does the list itself, not just the reference work in Python?",
+    "document_id": 50,
+    "chunk_index": 41,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.237,
+    "status": "ok"
+  },
+  {
+    "question": "Explain tuple range print as described in the document.",
+    "document_id": 50,
+    "chunk_index": 42,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.278,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of tuple items print in Python?",
+    "document_id": 50,
+    "chunk_index": 43,
+    "n_retrieved": 11,
+    "top_score": 0.0917,
+    "avg_score": 0.0519,
+    "latency_s": 0.309,
+    "status": "ok"
+  },
+  {
+    "question": "How is tuple return mrcet defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 44,
+    "n_retrieved": 13,
+    "top_score": 0.0893,
+    "avg_score": 0.0439,
+    "latency_s": 0.234,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about a tuple: it is actually a generator?",
+    "document_id": 50,
+    "chunk_index": 45,
+    "n_retrieved": 11,
+    "top_score": 0.0946,
+    "avg_score": 0.0519,
+    "latency_s": 0.236,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of year mrcet brand in Python programming.",
+    "document_id": 50,
+    "chunk_index": 46,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.416,
+    "status": "ok"
+  },
+  {
+    "question": "What is name uid customers in Python?",
+    "document_id": 50,
+    "chunk_index": 47,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.25,
+    "status": "ok"
+  },
+  {
+    "question": "How does file files text work in Python?",
+    "document_id": 50,
+    "chunk_index": 48,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.309,
+    "status": "ok"
+  },
+  {
+    "question": "Explain file open mode as described in the document.",
+    "document_id": 50,
+    "chunk_index": 49,
+    "n_retrieved": 8,
+    "top_score": 0.0965,
+    "avg_score": 0.0583,
+    "latency_s": 0.255,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of sys command line in Python?",
+    "document_id": 50,
+    "chunk_index": 50,
+    "n_retrieved": 11,
+    "top_score": 0.092,
+    "avg_score": 0.0519,
+    "latency_s": 0.239,
+    "status": "ok"
+  },
+  {
+    "question": "How is #print(sys defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 51,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.271,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about in debug mode import getopt import sys argv = sys?",
+    "document_id": 50,
+    "chunk_index": 52,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.254,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of indentation, it insists on consistentindentation in Python programming.",
+    "document_id": 50,
+    "chunk_index": 53,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.253,
+    "status": "ok"
+  },
+  {
+    "question": "What is Both keywords are followed by indented blocks in Python?",
+    "document_id": 50,
+    "chunk_index": 54,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.235,
+    "status": "ok"
+  },
+  {
+    "question": "How does print zero resource work in Python?",
+    "document_id": 50,
+    "chunk_index": 55,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.242,
+    "status": "ok"
+  },
+  {
+    "question": "Explain resource print closed as described in the document.",
+    "document_id": 50,
+    "chunk_index": 56,
+    "n_retrieved": 5,
+    "top_score": 0.0955,
+    "avg_score": 0.0699,
+    "latency_s": 0.274,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of modules module programming in Python?",
+    "document_id": 50,
+    "chunk_index": 57,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.268,
+    "status": "ok"
+  },
+  {
+    "question": "How is import add module defined according to the text?",
+    "document_id": 50,
+    "chunk_index": 58,
+    "n_retrieved": 11,
+    "top_score": 0.0955,
+    "avg_score": 0.0519,
+    "latency_s": 0.277,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about date import datetime a=datetime?",
+    "document_id": 50,
+    "chunk_index": 59,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.226,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of the following cmd whether removed or not >>> os in Python programming.",
+    "document_id": 50,
+    "chunk_index": 60,
+    "n_retrieved": 12,
+    "top_score": 0.0937,
+    "avg_score": 0.0476,
+    "latency_s": 0.287,
+    "status": "ok"
+  },
+  {
+    "question": "What is have renamed the math module as m in Python?",
+    "document_id": 50,
+    "chunk_index": 61,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.264,
+    "status": "ok"
+  },
+  {
+    "question": "How does named __init__ work in Python?",
+    "document_id": 50,
+    "chunk_index": 62,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.268,
+    "status": "ok"
+  },
+  {
+    "question": "Explain IIYEAR as described in the document.",
+    "document_id": 50,
+    "chunk_index": 63,
+    "n_retrieved": 5,
+    "top_score": 0.064,
+    "avg_score": 0.0571,
+    "latency_s": 0.258,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of list iii functions in Python?",
+    "document_id": 51,
+    "chunk_index": 0,
+    "n_retrieved": 14,
+    "top_score": 0.0927,
+    "avg_score": 0.0408,
+    "latency_s": 0.281,
+    "status": "ok"
+  },
+  {
+    "question": "How is programming functions iii defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 1,
+    "n_retrieved": 13,
+    "top_score": 0.0825,
+    "avg_score": 0.0439,
+    "latency_s": 0.339,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about list programming files?",
+    "document_id": 51,
+    "chunk_index": 2,
+    "n_retrieved": 13,
+    "top_score": 0.0946,
+    "avg_score": 0.0439,
+    "latency_s": 0.255,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of interpreter which programming in Python programming.",
+    "document_id": 51,
+    "chunk_index": 3,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.316,
+    "status": "ok"
+  },
+  {
+    "question": "What is and remembered: Step 1: Select Version of Python to Install in Python?",
+    "document_id": 51,
+    "chunk_index": 4,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.231,
+    "status": "ok"
+  },
+  {
+    "question": "How does of the file work in Python?",
+    "document_id": 51,
+    "chunk_index": 5,
+    "n_retrieved": 12,
+    "top_score": 0.092,
+    "avg_score": 0.0476,
+    "latency_s": 0.254,
+    "status": "ok"
+  },
+  {
+    "question": "Explain <class 'bool'> >>> type(False) <class 'bool'> String: 1 as described in the document.",
+    "document_id": 51,
+    "chunk_index": 6,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.284,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of variables variable list in Python?",
+    "document_id": 51,
+    "chunk_index": 7,
+    "n_retrieved": 12,
+    "top_score": 0.0927,
+    "avg_score": 0.0476,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "How is variables defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 8,
+    "n_retrieved": 14,
+    "top_score": 0.0927,
+    "avg_score": 0.0408,
+    "latency_s": 0.443,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about An expression is evaluated using assignment operator?",
+    "document_id": 51,
+    "chunk_index": 9,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.247,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of print statements statement in Python programming.",
+    "document_id": 51,
+    "chunk_index": 10,
+    "n_retrieved": 14,
+    "top_score": 0.0882,
+    "avg_score": 0.0408,
+    "latency_s": 0.264,
+    "status": "ok"
+  },
+  {
+    "question": "What is module line print in Python?",
+    "document_id": 51,
+    "chunk_index": 11,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.247,
+    "status": "ok"
+  },
+  {
+    "question": "How does functions function statements work in Python?",
+    "document_id": 51,
+    "chunk_index": 12,
+    "n_retrieved": 14,
+    "top_score": 0.0817,
+    "avg_score": 0.0408,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "Explain is called as described in the document.",
+    "document_id": 51,
+    "chunk_index": 13,
+    "n_retrieved": 12,
+    "top_score": 0.064,
+    "avg_score": 0.0411,
+    "latency_s": 0.311,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of output mrcet wish in Python?",
+    "document_id": 51,
+    "chunk_index": 14,
+    "n_retrieved": 14,
+    "top_score": 0.0847,
+    "avg_score": 0.0408,
+    "latency_s": 0.228,
+    "status": "ok"
+  },
+  {
+    "question": "How is values arguments func defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 15,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about value of 5?",
+    "document_id": 51,
+    "chunk_index": 16,
+    "n_retrieved": 6,
+    "top_score": 0.0882,
+    "avg_score": 0.0583,
+    "latency_s": 0.263,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of arguments function print in Python programming.",
+    "document_id": 51,
+    "chunk_index": 17,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.282,
+    "status": "ok"
+  },
+  {
+    "question": "What is mrcet cse dept in Python?",
+    "document_id": 51,
+    "chunk_index": 18,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "How does statement else greater work in Python?",
+    "document_id": 51,
+    "chunk_index": 19,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.264,
+    "status": "ok"
+  },
+  {
+    "question": "Explain else print elif as described in the document.",
+    "document_id": 51,
+    "chunk_index": 20,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of a false expression value\") print(var) print(\"Good bye in Python?",
+    "document_id": 51,
+    "chunk_index": 21,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.271,
+    "status": "ok"
+  },
+  {
+    "question": "How is count print mrcet defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 22,
+    "n_retrieved": 14,
+    "top_score": 0.0842,
+    "avg_score": 0.0408,
+    "latency_s": 0.305,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about loop print mrcet?",
+    "document_id": 51,
+    "chunk_index": 23,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.318,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of loop code inside in Python programming.",
+    "document_id": 51,
+    "chunk_index": 24,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "What is letter pass mrcet in Python?",
+    "document_id": 51,
+    "chunk_index": 25,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.277,
+    "status": "ok"
+  },
+  {
+    "question": "How does that returns a value is called Fruitful function work in Python?",
+    "document_id": 51,
+    "chunk_index": 26,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.238,
+    "status": "ok"
+  },
+  {
+    "question": "Explain function mrcet local as described in the document.",
+    "document_id": 51,
+    "chunk_index": 27,
+    "n_retrieved": 7,
+    "top_score": 0.064,
+    "avg_score": 0.0499,
+    "latency_s": 0.265,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of local global print in Python?",
+    "document_id": 51,
+    "chunk_index": 28,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.271,
+    "status": "ok"
+  },
+  {
+    "question": "How is of one function is the input for another defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 29,
+    "n_retrieved": 13,
+    "top_score": 0.0882,
+    "avg_score": 0.0439,
+    "latency_s": 0.253,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about a sequence of characters?",
+    "document_id": 51,
+    "chunk_index": 30,
+    "n_retrieved": 12,
+    "top_score": 0.0912,
+    "avg_score": 0.0476,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of string returns true in Python programming.",
+    "document_id": 51,
+    "chunk_index": 31,
+    "n_retrieved": 13,
+    "top_score": 0.092,
+    "avg_score": 0.0439,
+    "latency_s": 0.269,
+    "status": "ok"
+  },
+  {
+    "question": "What is occurrences if max given in Python?",
+    "document_id": 51,
+    "chunk_index": 32,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "How does string=\"Nikhil Is Learning\" >>> string work in Python?",
+    "document_id": 51,
+    "chunk_index": 33,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.245,
+    "status": "ok"
+  },
+  {
+    "question": "Explain string print array as described in the document.",
+    "document_id": 51,
+    "chunk_index": 34,
+    "n_retrieved": 12,
+    "top_score": 0.0928,
+    "avg_score": 0.0476,
+    "latency_s": 0.266,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of array element represents in Python?",
+    "document_id": 51,
+    "chunk_index": 35,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.309,
+    "status": "ok"
+  },
+  {
+    "question": "How is list college mrcet defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 36,
+    "n_retrieved": 13,
+    "top_score": 0.0817,
+    "avg_score": 0.042,
+    "latency_s": 0.289,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about list mrcet append?",
+    "document_id": 51,
+    "chunk_index": 37,
+    "n_retrieved": 10,
+    "top_score": 0.0937,
+    "avg_score": 0.0571,
+    "latency_s": 0.277,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of item list college in Python programming.",
+    "document_id": 51,
+    "chunk_index": 38,
+    "n_retrieved": 14,
+    "top_score": 0.0833,
+    "avg_score": 0.0408,
+    "latency_s": 0.352,
+    "status": "ok"
+  },
+  {
+    "question": "What is list item length in Python?",
+    "document_id": 51,
+    "chunk_index": 39,
+    "n_retrieved": 11,
+    "top_score": 0.092,
+    "avg_score": 0.0519,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "How does 2, 10, 4, 6] >>> x work in Python?",
+    "document_id": 51,
+    "chunk_index": 40,
+    "n_retrieved": 12,
+    "top_score": 0.0928,
+    "avg_score": 0.0476,
+    "latency_s": 0.275,
+    "status": "ok"
+  },
+  {
+    "question": "Explain the list itself, not just the reference as described in the document.",
+    "document_id": 51,
+    "chunk_index": 41,
+    "n_retrieved": 14,
+    "top_score": 0.0965,
+    "avg_score": 0.0408,
+    "latency_s": 0.24,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of tuple range print in Python?",
+    "document_id": 51,
+    "chunk_index": 42,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.243,
+    "status": "ok"
+  },
+  {
+    "question": "How is tuple items print defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 43,
+    "n_retrieved": 13,
+    "top_score": 0.0955,
+    "avg_score": 0.0439,
+    "latency_s": 0.347,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about tuple return mrcet?",
+    "document_id": 51,
+    "chunk_index": 44,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.27,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of a tuple: it is actually a generator in Python programming.",
+    "document_id": 51,
+    "chunk_index": 45,
+    "n_retrieved": 12,
+    "top_score": 0.0905,
+    "avg_score": 0.0476,
+    "latency_s": 0.278,
+    "status": "ok"
+  },
+  {
+    "question": "What is year mrcet brand in Python?",
+    "document_id": 51,
+    "chunk_index": 46,
+    "n_retrieved": 14,
+    "top_score": 0.084,
+    "avg_score": 0.0408,
+    "latency_s": 0.259,
+    "status": "ok"
+  },
+  {
+    "question": "How does name uid customers work in Python?",
+    "document_id": 51,
+    "chunk_index": 47,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.272,
+    "status": "ok"
+  },
+  {
+    "question": "Explain file files text as described in the document.",
+    "document_id": 51,
+    "chunk_index": 48,
+    "n_retrieved": 12,
+    "top_score": 0.0955,
+    "avg_score": 0.0476,
+    "latency_s": 0.256,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of file open mode in Python?",
+    "document_id": 51,
+    "chunk_index": 49,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.3,
+    "status": "ok"
+  },
+  {
+    "question": "How is sys command line defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 50,
+    "n_retrieved": 12,
+    "top_score": 0.0905,
+    "avg_score": 0.0476,
+    "latency_s": 0.274,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about #print(sys?",
+    "document_id": 51,
+    "chunk_index": 51,
+    "n_retrieved": 15,
+    "top_score": 0.064,
+    "avg_score": 0.0381,
+    "latency_s": 0.273,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of in debug mode import getopt import sys argv = sys in Python programming.",
+    "document_id": 51,
+    "chunk_index": 52,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.254,
+    "status": "ok"
+  },
+  {
+    "question": "What is indentation, it insists on consistentindentation in Python?",
+    "document_id": 51,
+    "chunk_index": 53,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.236,
+    "status": "ok"
+  },
+  {
+    "question": "How does Both keywords are followed by indented blocks work in Python?",
+    "document_id": 51,
+    "chunk_index": 54,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.238,
+    "status": "ok"
+  },
+  {
+    "question": "Explain print zero resource as described in the document.",
+    "document_id": 51,
+    "chunk_index": 55,
+    "n_retrieved": 9,
+    "top_score": 0.0965,
+    "avg_score": 0.0549,
+    "latency_s": 0.252,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of resource print closed in Python?",
+    "document_id": 51,
+    "chunk_index": 56,
+    "n_retrieved": 12,
+    "top_score": 0.0946,
+    "avg_score": 0.0476,
+    "latency_s": 0.269,
+    "status": "ok"
+  },
+  {
+    "question": "How is modules module programming defined according to the text?",
+    "document_id": 51,
+    "chunk_index": 57,
+    "n_retrieved": 13,
+    "top_score": 0.0928,
+    "avg_score": 0.0439,
+    "latency_s": 0.269,
+    "status": "ok"
+  },
+  {
+    "question": "What does the document say about import add module?",
+    "document_id": 51,
+    "chunk_index": 58,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.257,
+    "status": "ok"
+  },
+  {
+    "question": "Describe the role of date import datetime a=datetime in Python programming.",
+    "document_id": 51,
+    "chunk_index": 59,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.283,
+    "status": "ok"
+  },
+  {
+    "question": "What is the following cmd whether removed or not >>> os in Python?",
+    "document_id": 51,
+    "chunk_index": 60,
+    "n_retrieved": 13,
+    "top_score": 0.0965,
+    "avg_score": 0.0439,
+    "latency_s": 0.237,
+    "status": "ok"
+  },
+  {
+    "question": "How does have renamed the math module as m work in Python?",
+    "document_id": 51,
+    "chunk_index": 61,
+    "n_retrieved": 11,
+    "top_score": 0.0965,
+    "avg_score": 0.0519,
+    "latency_s": 0.267,
+    "status": "ok"
+  },
+  {
+    "question": "Explain named __init__ as described in the document.",
+    "document_id": 51,
+    "chunk_index": 62,
+    "n_retrieved": 12,
+    "top_score": 0.0965,
+    "avg_score": 0.0476,
+    "latency_s": 0.234,
+    "status": "ok"
+  },
+  {
+    "question": "What are the features or uses of IIYEAR in Python?",
+    "document_id": 51,
+    "chunk_index": 63,
+    "n_retrieved": 13,
+    "top_score": 0.0927,
+    "avg_score": 0.0439,
+    "latency_s": 0.302,
+    "status": "ok"
+  }
+]
