@@ -24,4 +24,3 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that allows users
 - Sentence Transformers / Embedding Models
 - Groq/OpenAI/Gemini (LLM)
 - PyMuPDF / PyPDF2
->>>>>>> 665cfe50113191164bbf6150b211e4cfea562663
