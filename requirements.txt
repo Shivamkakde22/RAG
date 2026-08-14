@@ -24,3 +24,4 @@ langchain-text-splitters==1.1.2
 python-dotenv==1.2.2
 
 rank-bm25==0.2.2
+pytest
